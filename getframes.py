@@ -24,13 +24,11 @@ import datetime
 from selenium import webdriver
 from pageClass import HomePage, FramePage, COMKEYS
 from constants import FRAMESDIR
-from functions import get_modname, setup_logging
+from logSystem import logSystem
 
 TOPICS = list(COMKEYS.keys())
 
-
 def get_parms(argv):
-    modname = get_modname(argv)
 
     # Allow individual topic, '*', or nothing (which defaults to *)
     if len(argv) > 1:
@@ -43,7 +41,7 @@ def get_parms(argv):
             sys.exit()
     else:
         comkey = '*'
-    return modname, comkey
+    return comkey
 
 
 def get_frames(comkey):
@@ -78,8 +76,10 @@ def remove_old_frames():
 
 
 if __name__ == "__main__":
-    modname, comkey = get_parms(sys.argv)
-    logger = setup_logging(__name__, modname)
+    # Parse input parameters and setup logging -- DEFAULT
+    logsys = logSystem(sys.argv)
+    logger = logsys.setup(__name__)
+    comkey = get_parms(sys.argv)
 
     # If the ./frames subdirectory does not already exist, create it
     # otherwise if we are doing all topics, remove all previous frames
@@ -88,8 +88,9 @@ if __name__ == "__main__":
         remove_old_frames()
 
     # Use Selenium to launch web browser to handle JavaScript
-    browser = webdriver.Firefox()
-    HomePage(browser, logger).login()
+    browser = webdriver.Chrome()
+    home = HomePage(browser, logger)
+    home.login()
 
     # If no topic provided, process all topics
     frame = FramePage(browser, logger)

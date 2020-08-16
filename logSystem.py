@@ -6,7 +6,7 @@ import sys
 
 LOGSDIR = "logs"
 
-class LogSystem():
+class logSystem():
     """ Class to create and manage info/warning/error logs  """
 
     def __init__(self, argv, level= logging.INFO):
@@ -43,7 +43,7 @@ class LogSystem():
     def test_messages(self):
         self.logger.debug('This is a debug message')
         self.logger.info('This is an informational message')
-        self.logger.warn('This is a warning message')
+        self.logger.warning('This is a warning message')
         self.logger.error('This is an error message')
         return self
 
@@ -51,22 +51,22 @@ if __name__ == "__main__":
     print('Testing: ', sys.argv[0])
 
     # Parse input parameters and setup logging-- DEBUG and higher
-    debuglog = LogSystem(['logtest_debug'], level=logging.DEBUG)
+    debuglog = logSystem(['logtest_debug'], level=logging.DEBUG)
     logger = debuglog.setup('debuglog')
     debuglog.test_messages()
 
     # Parse input parameters and setup logging -- DEFAULT
-    logsys = LogSystem(sys.argv)
+    logsys = logSystem(sys.argv)
     logger = logsys.setup(__name__)
     logsys.test_messages()
 
     # Parse input parameters and setup logging -- WARNING and higher
-    warnlog = LogSystem(['logtest_warn'], level=logging.WARNING)
+    warnlog = logSystem(['logtest_warn'], level=logging.WARNING)
     logger = warnlog.setup('warnlog')
     warnlog.test_messages()
 
     # Parse input parameters and setup logging -- ERROR and higher
-    errorlog = LogSystem(['logtest_error'], level=logging.ERROR)
+    errorlog = logSystem(['logtest_error'], level=logging.ERROR)
     errorlog.logmsg = ''  # Do not announce we are logging messages
     logger = errorlog.setup('errorlog')
     errorlog.test_messages()
