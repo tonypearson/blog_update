@@ -22,8 +22,7 @@ import sys
 import logging
 import datetime
 from selenium import webdriver
-from pageClass import HomePage, FramePage, COMKEYS
-from constants import FRAMESDIR
+from pageClass import HomePage, FramePage, COMKEYS, FRAMESDIR
 from functions import get_modname, setup_logging
 
 TOPICS = list(COMKEYS.keys())

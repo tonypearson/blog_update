@@ -6,8 +6,10 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-from constants import PARSER
 
+FRAMESDIR = 'frames'
+POSTSDIR = 'posts'
+PARSER = 'lxml'
 
 class LoginError(RuntimeError):
     pass
@@ -187,13 +189,14 @@ class PostPage(BasePage):
 
 
 COMKEYS = {
-    'flash': '259eb30e-f20d-4433-aa35-ff2bc9bf625f',           # Flash Storage
+    'dpr': '2437e98f-10ca-4898-ae8c-c7f0d6e42e59',           # Data Protection
     'fob': '1142f81e-95e4-4381-95d0-7977f20d53fa',   # File and object storage
-    'mdp': '2437e98f-10ca-4898-ae8c-c7f0d6e42e59',    # Modern Data Protection
+    'fla': '259eb30e-f20d-4433-aa35-ff2bc9bf625f',             # Flash Storage
+    'mfr': 'c6644533-459d-4dc4-af5e-9c9f04f4f4c7',         # Mainframe Storage
     'san': '8c5ad67f-4f4b-478a-8deb-6a219c72dfab',     # Storage Area Networks
-    'sds': '295787b1-a4e4-43ff-9bfe-206a7912b51d',  # Software Defined Storage
-    'tape': '85531a8a-8971-4c0e-8d2b-098ba927269e',             # Tape Systems
-}
+    'smr': '295787b1-a4e4-43ff-9bfe-206a7912b51d',     # Storage Mgt/Reporting
+    'tap': '85531a8a-8971-4c0e-8d2b-098ba927269e',              # Tape Systems
+    }
 
 COMFRAME = ('https://community.ibm.com/community/user/storage/' 
             + 'communities/community-home/recent-community-blogs'
