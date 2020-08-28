@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from constants import POSTSDIR, PARSER
 from functions import get_modname, setup_logging
 from pageClass import PostPage
+from showProgress import showProgress
 
 UNITTEST = False
 VERBOSE = False
@@ -155,7 +156,7 @@ def parse(postname):
         raise TopicError(logmsg)
 
     this_topic = mo.group(1)
-    import pdb; pdb.set_trace()
+    # import pdb; pdb.set_trace()
     soup = BeautifulSoup(open(postname), PARSER)
     title_contents = get_title(soup)
     file_contents = get_contents(soup)
@@ -269,13 +270,16 @@ if __name__ == "__main__":
     output_file = open('reclassify.txt', 'w')
 
     filenames = sorted(os.listdir('./' + POSTSDIR))
+    dot = showProgress()
     for filename in filenames:
         # Only process HTML files in this directory
         if (filename.startswith('20')
                 and filename.endswith('.html')):
+            dot.show()
             postname = os.path.join(POSTSDIR, filename)
             logger.info('Processing: ' + postname)
             top_topic = parse(postname)
             posts[top_topic] += 1
+    dot.end()
 
     print("Done.")
