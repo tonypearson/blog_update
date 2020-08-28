@@ -1,14 +1,14 @@
-#!/usr/bin/python3
-# getposts.py
+#!/usr/bin/env python3
+# scanframes.py
 # By Tony Pearson, IBM, July 2020
 #
 # Reads all of the frame files collected by getframes.py
-# and fetches all posts that belong to Tony Pearson
+# and creates postlist.txt
 #
 # Usage:
 #       ./getposts.py               This option will delete all previous posts
-#       ./getposts.py flash         Process flash001 to flash999 frames
-#       ./getposts.py flash007      Process just the flash007 frame
+#       ./getposts.py fla           Process fla00001 to fla99999 frames
+#       ./getposts.py fla00007      Process just the flash007 frame
 
 import os
 import re
@@ -67,7 +67,7 @@ def parse(framename):
                 warn_seq = FRAME_SEQ.format(blogdate, topic, LASTDATE[topic])
                 logger.warning(warn_seq)
                 continue
-            follow(postlink, topic)
+            print(topic, postlink, file=out_file)
     dot.end()
     return None
 
@@ -134,10 +134,14 @@ if __name__ == "__main__":
     modname, keyw = get_parms(sys.argv)
     logger = setup_logging(__name__, modname)
 
-    os.makedirs(POSTSDIR, exist_ok=True)
-    with open('postlist.txt', 'r') as in_file:
-        lines = in_file.read().splitlines()
-            for line in lines:
-                print(line)
+    with open('postlist.txt', 'w') as out_file:
+        filenames = sorted(os.listdir(FRAMESDIR))
+        for filename in filenames:
+            # Only process HTML files in this directory
+            if ((keyw < filename)
+                    and filename.endswith('.html')):
+                framename = os.path.join(FRAMESDIR, filename)
+                logger.info('Processing: {}'.format(framename))
+                parse(framename)
 
     print('Done')
