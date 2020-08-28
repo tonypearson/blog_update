@@ -12,11 +12,14 @@
 
 import os
 import re
+import requests
 import sys
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from functions import get_modname, setup_logging
 from pageClass import HomePage, PostPage, FRAMESDIR, POSTSDIR, PARSER
+from showProgress import showProgress
+
 
 BLOGID = re.compile(r'Tony[ ]?Pearson')
 LASTDATE = {}
@@ -39,13 +42,17 @@ def get_parms(argv):
 def parse(framename):
     """ Parse the frame to extract all post links """
     topic = re.sub(r'.*/(\w*).html', r'\1', framename)
+    print(topic, end='')
     logger.info('Topic={} Name={}'.format(topic,framename))
     soup = BeautifulSoup(open(framename), PARSER)
     links = soup.findAll('a', attrs={'class': 'BlogTitle'})
 
     # A frame can list up to 20 blog posts
+    dot = showProgress()
     for link in links:
         postlink = link['href']
+        # import pdb; pdb.set_trace()
+        dot.show()
         if BLOGLINK not in postlink:
             logger.info('Ignoring: {}'.format(postlink))
             continue
@@ -61,6 +68,8 @@ def parse(framename):
                 logger.warning(warn_seq)
                 continue
             follow(postlink, topic)
+    dot.end()
+    return None
 
 
 def follow(postlink, topic):
@@ -71,10 +80,11 @@ def follow(postlink, topic):
         post_page.from_url(postlink)
     except:
         return None
-
+    # import pdb; pdb.set_trace()
     desc, byline = post_page.author()
+    # print('DESC:', desc, 'BYLINE:', byline)
 
-    post = BeautifulSoup(browser.page_source, PARSER)
+    post = post_page.soup
     belongs_to_blogger = False
 
     # Older posts use meta tag description, newer posts use byline
@@ -125,25 +135,15 @@ if __name__ == "__main__":
     logger = setup_logging(__name__, modname)
 
     os.makedirs(POSTSDIR, exist_ok=True)
-    remove_old_posts(keyw)
-
-    # Use Selenium to launch web browser to handle JavaScript
-    fp = webdriver.FirefoxProfile()
-    fp.set_preference("browser.cache.disk.enable", False)
-    fp.set_preference("browser.cache.memory.enable", False)
-    fp.set_preference("browser.cache.offline.enable", False)
-    fp.set_preference("network.http.use-cache", False) 
-    browser = webdriver.Firefox(firefox_profile = fp)
-    storage_community = HomePage(browser, logger).login()
+    # remove_old_posts(keyw)
 
     filenames = sorted(os.listdir(FRAMESDIR))
     for filename in filenames:
         # Only process HTML files in this directory
-        if ((keyw in filename)
+        if ((keyw < filename)
                 and filename.endswith('.html')):
             framename = os.path.join(FRAMESDIR, filename)
             logger.info('Processing: {}'.format(framename))
             parse(framename)
 
-    browser.quit()
     print('Done')

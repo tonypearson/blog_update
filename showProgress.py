@@ -2,17 +2,17 @@ import sys
 import time
 
 
-class ShowProgress():
+class showProgress():
     """
     Class to show progress in long-running tasks
     
-    from ShowProgress import ShowProgress
-    dot = ShowProgress()
+    from showProgress import showProgress
+    dot = showProgress()
     dot.show()  # print a single character to show progress
     dot.end()  # End the sequence, print newline
 
     Default character is period(.), you can change the character:
-        dot = ShowProgress(dotchar="#")
+        dot = showProgress(dotchar="#")
     """
     
 
@@ -35,21 +35,21 @@ class ShowProgress():
 if __name__ == "__main__":
     print('Testing: ', sys.argv[0])
 
-    dot = ShowProgress()
+    dot = showProgress()
     for n in range(50):
         dot.show()
         time.sleep(0.3)
     dot.end()
 
     print('Testing with different character')
-    dash = ShowProgress(dotchar='#')
+    dash = showProgress(dotchar='#')
     for n in range(50):
         dash.show()
         time.sleep(0.2)
     dash.end()
 
     print('Changing character midway')
-    hash = ShowProgress(dotchar="#")
+    hash = showProgress(dotchar="#")
     for n in range(50):
         hash.show()
         if n>27:

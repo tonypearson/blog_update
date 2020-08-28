@@ -1,5 +1,6 @@
 import os
 import logging
+import requests
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException
@@ -24,8 +25,8 @@ class BasePage(object):
 
     def __init__(self, driver, logger):
         self.driver = driver
-        self.driver.implicitly_wait(20)
-        self.driver.set_page_load_timeout(60)
+        self.driver.implicitly_wait(60)
+        self.driver.set_page_load_timeout(120)
 
         self.pagename = 'BasePage'
         self.logger = logger
@@ -127,6 +128,8 @@ class PostPage(BasePage):
     def __init__(self, driver, logger):
         super().__init__(driver, logger)
         self.pagename = 'PostPage'
+        self.content = ''
+        self.soup = ''
 
     def from_file(self, filename):
         self.permalink(filename)
@@ -134,26 +137,21 @@ class PostPage(BasePage):
         browser.get(self.url)
         wait = WebDriverWait(browser, 10)
         wait.until(EC.element_to_be_clickable((By.ID, EDIT_ID)))
+        self.content = browser.page_source
+        self.soup = BeautifulSoup(self.content, PARSER)
         return self
 
     def from_url(self, url):
         self.url = url
-        browser = self.driver
-        try:
-            browser.get(url)
-        except Exception as e:
-            warnmsg = 'Unable to read: {}'.format(url)
-            print(warnmsg)
-            self.logger.warning(warnmsg)
-            raise e
-        group_home = (By.LINK_TEXT, 'Group Home')
-        wait = WebDriverWait(browser, 10)
-        wait.until(EC.presence_of_element_located(group_home))
+        r = requests.get(url)
+        self.content = r.content
+        self.soup = BeautifulSoup(self.content, PARSER)
         return self
 
     def author(self):
-        browser = self.driver
-        post = BeautifulSoup(browser.page_source, PARSER)
+        if self.soup == '':
+            self.soup = BeautifulSoup(self.content, PARSER)
+        post = self.soup
 
         # Older posts use meta tag description, newer posts use byline
         desc = post.find('meta', attrs={'name': 'description'})
@@ -173,14 +171,17 @@ class PostPage(BasePage):
         return self
 
     def permalink(self):
-        browser = self.driver
-        post = BeautifulSoup(browser.page_source, PARSER)
+        if self.soup == '':
+            self.soup = BeautifulSoup(self.content, PARSER)
+        post = self.soup
         self.permalink_from_source(post)
+        return self
 
     def permalink_from_source(self, post):
         block = post.find('div', attrs={'class': 'permalink-block'})
         inside = block.find('input')
         self.url = inside['value']
+        return self
 
     def permalink_from_file(self, postname):
         post = BeautifulSoup(open(postname), PARSER)
