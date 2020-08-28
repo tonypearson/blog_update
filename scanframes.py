@@ -72,64 +72,6 @@ def parse(framename):
     return None
 
 
-def follow(postlink, topic):
-    """ Fetch post content and check meta data """
-    post_page = PostPage(browser, logger)
-    logger.debug('Attempting: {}'.format(postlink))
-    try:
-        post_page.from_url(postlink)
-    except:
-        return None
-    # import pdb; pdb.set_trace()
-    desc, byline = post_page.author()
-    # print('DESC:', desc, 'BYLINE:', byline)
-
-    post = post_page.soup
-    belongs_to_blogger = False
-
-    # Older posts use meta tag description, newer posts use byline
-    if desc:
-        content = desc['content'].split('\n')
-        postedby = content[0]
-        logger.info(postedby)
-        if BLOGID.search(postedby):
-            belongs_to_blogger = True
-    else:
-        if BLOGID.search(byline.text):
-            belongs_to_blogger = True
-
-    if belongs_to_blogger:
-        post_page.permalink_from_source(post)
-        postname = make_name(post_page.url, topic)
-        post_page.write_page(postname)
-        logger.info('Tony: {}'.format(postname))
-    return None
-
-
-def make_name(linkurl, topic):
-    """ generate file name from permalink in POSTSDIR directory """
-    fileRegex = re.compile(r'^(.*)/(20\d\d)/(\d\d)/(\d\d)/(.*)$')
-    mo = fileRegex.search(linkurl)
-    date_part = mo.group(2)+'-'+mo.group(3)+'-'+mo.group(4)
-    gen_name = date_part+'-'+topic+'-'+mo.group(5)+'.html'
-    filename = os.path.join(POSTSDIR, gen_name)
-    return filename
-
-
-def remove_old_posts(keyw):
-    """ remove all previous HTML frame files """
-    for filename in os.listdir(POSTSDIR):
-        file_path = os.path.join(POSTSDIR, filename)
-        try:
-            if (os.path.isfile(file_path)
-                    and (keyw in filename)
-                    and filename.endswith('.html')):
-                os.unlink(file_path)
-        except Exception as e:
-            print('Failed to delete %s. Reason: %s' % (file_path, e))
-    return None
-
-
 if __name__ == "__main__":
     modname, keyw = get_parms(sys.argv)
     logger = setup_logging(__name__, modname)

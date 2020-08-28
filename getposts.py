@@ -39,52 +39,20 @@ def get_parms(argv):
         keyw = '.'   # matches all files
     return modname, keyw
 
-def parse(framename):
-    """ Parse the frame to extract all post links """
-    topic = re.sub(r'.*/(\w*).html', r'\1', framename)
-    print(topic, end='')
-    logger.info('Topic={} Name={}'.format(topic,framename))
-    soup = BeautifulSoup(open(framename), PARSER)
-    links = soup.findAll('a', attrs={'class': 'BlogTitle'})
-
-    # A frame can list up to 20 blog posts
-    dot = showProgress()
-    for link in links:
-        postlink = link['href']
-        # import pdb; pdb.set_trace()
-        dot.show()
-        if BLOGLINK not in postlink:
-            logger.info('Ignoring: {}'.format(postlink))
-            continue
-
-        mo = DATEregex.search(postlink)
-        if mo:
-            blogdate = mo.group(1)
-            if topic not in LASTDATE:
-                LASTDATE[topic] = blogdate
-                logger.info(FRAME_DATE.format(topic,blogdate))
-            elif LASTDATE[topic] < blogdate:
-                warn_seq = FRAME_SEQ.format(blogdate, topic, LASTDATE[topic])
-                logger.warning(warn_seq)
-                continue
-            follow(postlink, topic)
-    dot.end()
-    return None
-
 
 def follow(postlink, topic):
     """ Fetch post content and check meta data """
-    post_page = PostPage(browser, logger)
     logger.debug('Attempting: {}'.format(postlink))
-    try:
-        post_page.from_url(postlink)
-    except:
-        return None
+    r = requests.get(postlink)
+    post = BeautifulSoup(r.content, PARSER)
+
     # import pdb; pdb.set_trace()
-    desc, byline = post_page.author()
+    
+    desc = post.find('meta', attrs={'name': 'description'})
+    byline_id = 'MainCopy_ctl04_ucPermission_UserName_lnkProfile'
+    byline = post.find('a', attrs={'id': byline_id})
     # print('DESC:', desc, 'BYLINE:', byline)
 
-    post = post_page.soup
     belongs_to_blogger = False
 
     # Older posts use meta tag description, newer posts use byline
@@ -99,9 +67,13 @@ def follow(postlink, topic):
             belongs_to_blogger = True
 
     if belongs_to_blogger:
-        post_page.permalink_from_source(post)
-        postname = make_name(post_page.url, topic)
-        post_page.write_page(postname)
+        block = post.find('div', attrs={'class': 'permalink-block'})
+        inside = block.find('input')
+        permalink = inside['value']
+        print(topic, permalink, file=perm_file)
+        postname = make_name(permalink, topic)
+        with open(postname, 'wb') as file_obj:
+            file_obj.write(r.content)
         logger.info('Tony: {}'.format(postname))
     return None
 
@@ -134,10 +106,15 @@ if __name__ == "__main__":
     modname, keyw = get_parms(sys.argv)
     logger = setup_logging(__name__, modname)
 
-    os.makedirs(POSTSDIR, exist_ok=True)
-    with open('postlist.txt', 'r') as in_file:
-        lines = in_file.read().splitlines()
+    with open('permalink.txt', 'w') as perm_file:
+        os.makedirs(POSTSDIR, exist_ok=True)
+        dot = showProgress()
+        with open('postlist.txt', 'r') as in_file:
+            lines = in_file.read().splitlines()
             for line in lines:
-                print(line)
+                dot.show()
+                topic, postlink = line.split(' ')
+                follow(postlink, topic)
+        dot.end()
 
     print('Done')
