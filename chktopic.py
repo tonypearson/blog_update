@@ -19,52 +19,7 @@ Fmatch = 'Fmatch: {} {} {}'
 POSTEDbyRegex = re.compile(r'posted by: (.*)$')
 LOGMSG = 'Author:{} Postname:{} Permalink:{}'
 
-TOPICS = {'flash': [re.compile(r'A9000'),
-                    re.compile(r'[aA]ll-flash'),
-                    re.compile(r'FlashSystem'),
-                    re.compile(r'\WSSD'),
-                    re.compile(r'[sS]Solid[-\s]+[sS]tate'),
-                    re.compile(r'EMC\W'),
-                    re.compile(r'Symmetrix'),
-                    re.compile(r'ChuckH'),
-                    re.compile(r'Celerra'),
-                    re.compile(r'CLARiiON'),
-                    re.compile(r'Hollis'),
-                    re.compile(r'Yoshida'),
-                    re.compile(r'\WHDS'),
-                    re.compile(r'Hitachi'),
-                    re.compile(r'Storwize'),
-                    re.compile(r'NAND'),
-                    re.compile(r'NVMe'),
-                    re.compile(r'[fF]irmware'),
-                    re.compile(r'\WXIV'),
-                    re.compile(r'[mM]odel 314'),
-                    re.compile(r'DS8[013]00'),
-                    re.compile(r'DS8[789]\d\d'),
-                    re.compile(r'[SD]RAM'),
-                    re.compile(r'RAMSan'),
-                    re.compile(r'RAID'),
-                    re.compile(r'Texas[\s]+Memory[\s]+Systems'),
-                    ],
-          'fob':   [re.compile(r'GPFS'),
-                    re.compile(r'\WCOS'),
-                    re.compile(r'Spectrum[\s]+Scale'),
-                    re.compile(r'\WNAS'),
-                    re.compile(r'\WCIFS'),
-                    re.compile(r'\WNFS'),
-                    re.compile(r'ATMOS'),
-                    re.compile(r'Isilon'),
-                    re.compile(r'[oO]bject[\s]+[sS]torage'),
-                    re.compile(r'[cC]loud[\s]+[sS]torage'),
-                    re.compile(r'Ceph'),
-                    re.compile(r'\WESS'),
-                    re.compile(r'Elastic[\s]+Storage[\s]+Server'),
-                    re.compile(r'Amazon[\s]+S3'),
-                    re.compile(r'Clever[sS]afe'),
-                    re.compile(r'\WCAS\W'),
-                    re.compile(r'[cC]ontent[ -][aA]ddressable'),
-                    ],
-          'mdp':   [re.compile(r'ADSTAR'),
+TOPICS = {'dpr':   [re.compile(r'ADSTAR'),
                     re.compile(r'ADSM'),
                     re.compile(r'Tivoli[\s]+Storage[\s]+Manager'),
                     re.compile(r'Spectrum[\s]+Protect'),
@@ -85,6 +40,59 @@ TOPICS = {'flash': [re.compile(r'A9000'),
                     re.compile(r'[rR]estor(e|ing)'),
                     re.compile(r'Business[\s]+Continuity'),
                     ],
+            'fla': [re.compile(r'A9000'),
+                    re.compile(r'[aA]ll-flash'),
+                    re.compile(r'FlashSystem'),
+                    re.compile(r'\WSSD'),
+                    re.compile(r'[sS]Solid[-\s]+[sS]tate'),
+                    re.compile(r'EMC\W'),
+                    re.compile(r'Celerra'),
+                    re.compile(r'CLARiiON'),
+                    re.compile(r'Storwize'),
+                    re.compile(r'NAND'),
+                    re.compile(r'NVMe'),
+                    re.compile(r'[fF]irmware'),
+                    re.compile(r'\WXIV'),
+                    re.compile(r'[mM]odel 314'),
+                    re.compile(r'[SD]RAM'),
+                    re.compile(r'RAMSan'),
+                    re.compile(r'RAID'),
+                    re.compile(r'Spectrum[\s]+Accelerate'),
+                    re.compile(r'Spectrum[\s]+Virtualize'),
+                    re.compile(r'SAN[\s]+Volume[\s]+Controller'),
+                    re.compile(r'[sS]torage\s+[vV]irtualization'),
+                    re.compile(r'SVC'),
+                    re.compile(r'Texas[\s]+Memory[\s]+Systems'),
+                    ],
+          'fob':   [re.compile(r'GPFS'),
+                    re.compile(r'\WCOS'),
+                    re.compile(r'Spectrum[\s]+Scale'),
+                    re.compile(r'\WNAS'),
+                    re.compile(r'\WCIFS'),
+                    re.compile(r'\WNFS'),
+                    re.compile(r'ATMOS'),
+                    re.compile(r'Isilon'),
+                    re.compile(r'[oO]bject[\s]+[sS]torage'),
+                    re.compile(r'[cC]loud[\s]+[sS]torage'),
+                    re.compile(r'Ceph'),
+                    re.compile(r'\WESS'),
+                    re.compile(r'Elastic[\s]+Storage[\s]+Server'),
+                    re.compile(r'Amazon[\s]+S3'),
+                    re.compile(r'Clever[sS]afe'),
+                    re.compile(r'\WCAS\W'),
+                    re.compile(r'[cC]ontent[ -][aA]ddressable'),
+                    ],
+          'mfr':   [
+                    re.compile(r'DS8[013]00'),
+                    re.compile(r'DS8[789]\d\d'),
+                    re.compile(r'TS7\d\d\d'),
+                    re.compile(r'Symmetrix'),
+                    re.compile(r'ChuckH'),
+                    re.compile(r'Hollis'),
+                    re.compile(r'Yoshida'),
+                    re.compile(r'\WHDS'),
+                    re.compile(r'Hitachi'),
+                    ],
           'san':   [re.compile(r'[bB]luetooth'),
                     re.compile(r'[eE]thernet'),
                     re.compile(r'Infiniband'),
@@ -102,24 +110,18 @@ TOPICS = {'flash': [re.compile(r'A9000'),
                     re.compile(r'[cC]onverged'),
                     re.compile(r'[wW]iring'),
                     ],
-          'sds':   [re.compile(r'Spectrum Software'),
+          'smr':   [re.compile(r'Spectrum Software'),
                     re.compile(r'[sS]oftware[-\s]+[dD]efined'),
                     re.compile(r'Spectrum[\s]+Control'),
                     re.compile(r'Spectrum[\s]+Connect'),
-                    re.compile(r'Spectrum[\s]+Accelerate'),
                     re.compile(r'Spectrum[\s]+Discover'),
-                    re.compile(r'Spectrum[\s]+Virtualize'),
                     re.compile(r'Storage[\s]+Insights'),
                     re.compile(r'Productivity[\s]+Center'),
-                    re.compile(r'SVC'),
                     re.compile(r'ITIL'),
-                    re.compile(r'SAN[\s]+Volume[\s]+Controller'),
-                    re.compile(r'[sS]torage\s+[vV]irtualization'),
                     ],
-          'tape':  [re.compile(r'\W[tT]ape'),
+          'tap':  [re.compile(r'\W[tT]ape'),
                     re.compile(r'[cC]artridge'),
                     re.compile(r'Data[\s]+Domain'),
-                    re.compile(r'TS7\d\d\d'),
                     re.compile(r'TS[1234]\d\d\d'),
                     re.compile(r'LTO'),
                     re.compile(r'Linear[\s]+Tape[\s]+Open'),
@@ -153,7 +155,7 @@ def parse(postname):
         raise TopicError(logmsg)
 
     this_topic = mo.group(1)
-
+    import pdb; pdb.set_trace()
     soup = BeautifulSoup(open(postname), PARSER)
     title_contents = get_title(soup)
     file_contents = get_contents(soup)
@@ -232,6 +234,8 @@ def get_blogger(soup):
     """ get blogger id or name """
 
     desc = soup.find('meta', attrs={'name': 'description'})
+    byline_id = 'MainCopy_ctl04_ucPermission_UserName_lnkProfile'
+    byline = soup.find('a', attrs={'id': byline_id})
     blogger = ''
     if desc:
         content = desc['content'].split('\n')
@@ -240,9 +244,9 @@ def get_blogger(soup):
         if mo:
             blogger = mo.group(1)
     else:
-        byline = soup.find('a',
-                           attrs={'id': 'MainCopy_ctl04_ucPermission_UserName_lnkProfile'})
-        blogger = byline.text
+        
+        if byline:
+            blogger = byline.text
     return blogger
 
 
