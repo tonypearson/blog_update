@@ -9,6 +9,8 @@
 #       ./getposts.py               This option will delete all previous posts
 #       ./getposts.py flash         Process flash001 to flash999 frames
 #       ./getposts.py flash007      Process just the flash007 frame
+#
+# import pdb; pdb.set_trace() - for debug
 
 import os
 import re
@@ -46,8 +48,6 @@ def follow(postlink, topic):
     r = requests.get(postlink)
     post = BeautifulSoup(r.content, PARSER)
 
-    # import pdb; pdb.set_trace()
-    
     desc = post.find('meta', attrs={'name': 'description'})
     byline_id = 'MainCopy_ctl04_ucPermission_UserName_lnkProfile'
     byline = post.find('a', attrs={'id': byline_id})

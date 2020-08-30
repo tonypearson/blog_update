@@ -1,6 +1,7 @@
 import os
 import logging
 import requests
+from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException
@@ -63,7 +64,7 @@ class HomePage(BasePage):
         self.screenshot('01')
         browser.find_element_by_link_text('Sign In').click()
         wait.until(EC.staleness_of(menu))
-        return
+        return None
 
     def _enter_username(self, uid):
         browser = self.driver
@@ -73,15 +74,21 @@ class HomePage(BasePage):
         userfield.send_keys(uid)
         browser.find_element_by_id('continue-button').click()
         wait.until(EC.staleness_of(userfield))
+        return None
 
     def _enter_password(self, pwd):
         browser = self.driver
+        # import pdb; pdb.set_trace()
         wait = WebDriverWait(browser, 10)
         self.screenshot('03')
         pwdfield = browser.find_element_by_id('password')
         pwdfield.send_keys(pwd)
-        browser.find_element_by_id('signinbutton').click()
-        wait.until(EC.staleness_of(pwdfield))
+
+        # With chrome, sending keys is enough, for Firefox click sign-in
+        if not isinstance(browser, webdriver.chrome.webdriver.WebDriver):
+            browser.find_element_by_id('signinbutton').click()
+            wait.until(EC.staleness_of(pwdfield))
+        return None
 
     def _auto_login(self):
         """ if credits file exists, use it to login automatically """
@@ -120,6 +127,7 @@ class HomePage(BasePage):
 
 
 EDIT_ID = 'MainCopy_ctl04_ucPermission_ManageDropDown1_lnkbtnEdit'
+TITLE_ID = 'PageTitleH1'
 
 
 class PostPage(BasePage):
@@ -133,10 +141,18 @@ class PostPage(BasePage):
 
     def from_file(self, filename):
         self.permalink(filename)
+        self.from_permalink(self.url)
+        return self
+
+    def from_permalink(self, permalink):
+        self.url = permalink
         browser = self.driver
-        browser.get(self.url)
+        try:
+            browser.get(self.url)
+        except TimeoutException as e:
+            self.logger.warning(permalink + ':' + e)
         wait = WebDriverWait(browser, 10)
-        wait.until(EC.element_to_be_clickable((By.ID, EDIT_ID)))
+        wait.until(EC.presence_of_element_located((By.ID, TITLE_ID)))
         self.content = browser.page_source
         self.soup = BeautifulSoup(self.content, PARSER)
         return self
