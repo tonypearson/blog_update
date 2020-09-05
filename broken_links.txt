@@ -1,0 +1,1543 @@
+posts/2006-09-01-fla00019-storage-race-heats-up.html -- problems found: 1
+    408 http://newsbreaks.net/archives/6114
+posts/2006-09-02-dpr00009-is-ilm-dead.html -- problems found: 1
+    408 http://www.drunkendata.com/?p=555
+posts/2006-09-02-fla00019-big-bluebig-borg.html -- problems found: 1
+    408 http://blogs.rupturedmonkey.com/?p=24
+posts/2006-09-02-smr00035-thick-versus-thin-storage-virtualization.html -- problems found: 2
+    404 http://blogs.netapp.com/dave/TechTalk/2006/08/10/Avoiding-Vendor-Lock-In-with-Storage-Virtualization.html
+    404 http://blogs.hds.com/hu/2006/08/thin_versus_thi.html
+posts/2006-09-02-smr00035-trust-key-to-survival.html -- problems found: 1
+    408 http://www.channeladvisornews.com/story.cfm?item=67
+posts/2006-09-05-smr00035-a-brand-by-any-other-name.html -- problems found: 1
+    404 http://blogs.netapp.com/dave/ThinkingOutLoud/?permalink=What-do-Marketing-People-Mean-When-They-Say-Brand.html
+posts/2006-09-05-smr00035-insidesystemstorage-makes-the-data-storage-bloggers-wiki.html -- problems found: 2
+    404 http://storagebloggers.pbwiki.com/Data%20Storage%20Bloggers
+    404 http://www.bloglines.com/public/datastoragebloggers
+posts/2006-09-06-smr00035-confirmation-bias.html -- problems found: 1
+    408 http://esgblogs.typepad.com/stor_wars/2006/06/confirmation_bi.html
+posts/2006-09-07-dpr00009-users-suffer-major-problems-with.html -- problems found: 1
+    404 http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9003009&pageNumber
+posts/2006-09-08-smr00035-ibm-system-storage-for-system-x-and-bladecenter.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/bladecenter/
+    404 http://www-03.ibm.com/systems/x/
+posts/2006-09-12-smr00035-ibm-it-service-management-for-the-itil-crowd.html -- problems found: 2
+    408 www.ibm.com/itsm
+    404 http://www.research.ibm.com/autonomic/
+posts/2006-09-14-smr00035-50-aos-para-el-sistema-de-disco-50-years-of-disk-systems-for-latin-america.html -- problems found: 9
+    404 http://www.ibm.com/bo/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/br/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/co/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/ec/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/mx/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/py/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/pe/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/uy/products/storage/news_events/50yearsofdisk/
+    404 http://www.ibm.com/ve/products/storage/news_events/50yearsofdisk/
+posts/2006-09-18-tap00006-webinars-on-tape.html -- problems found: 1
+    408 www.on24.com/event/27252
+posts/2006-09-19-dpr00009-ilm-for-my-ipod.html -- problems found: 4
+    503 http://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140/sr=8-1/qid=1158666874/ref=sr_1_1/104-7709582-3353542?ie=UTF8&s=books
+    408 www.tivo.com
+    404 http://www.gracenote.com/music/corporate/index.html
+    408 http://www.washingtonpost.com/wp-dyn/content/article/2006/09/08/AR2006090801664.html
+posts/2006-11-17-fob00005-what-is-a-fan.html -- problems found: 1
+    408 http://esgblogs.typepad.com/stor_wars/2006/11/fun_with_fan.html
+posts/2006-11-30-fob00005-where-is-the-storage-industry-headed.html -- problems found: 1
+    503 http://www.amazon.com/Seeing-Whats-Next-Theories-Innovation/dp/1591391857/sr=8-1/qid=1164930316/ref=pd_bbs_sr_1/002-1315847-2140066?ie=UTF8&s=books
+posts/2006-12-12-tap00006-the-dilemma-over-future-storage-formats.html -- problems found: 2
+    408 http://pogue.blogs.nytimes.com/2006/12/07/07pogue-email-2/
+    406 http://www.emaglink.com/
+posts/2006-12-13-smr00035-the-long-tail.html -- problems found: 1
+    403 http://www.hotelcongress.com/hotel/taproom.php
+posts/2006-12-19-smr00035-blog-frequency.html -- problems found: 3
+    404 http://www.networkworld.com/news/2006/121406-top-10-network-storage-blogs.html?zb&rc=stor
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ilm_for_my_ipod
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=aperi_is_viagra_for_smi
+posts/2006-12-20-fla00019-hybrid-solid-state-and-the-future-of-raid.html -- problems found: 5
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=toshiba_s_latest_1_8
+    404 http://www-03.ibm.com/systems/z/pso/coupling.html
+    404 http://www.storageperformance.org/results/a00043_IBM_SPC1_executive-summary_AR1.pdf
+    404 http://www.storageperformance.org/results/b00011_IBM-SVC4.1_SPC2_executive-summary.pdf
+    404 http://www.storageperformance.org/results
+posts/2006-12-21-smr00034-building-a-snowman-in-second-life.html -- problems found: 1
+    408 www.secondlife.com
+posts/2006-12-22-smr00034-management-of-scarcity-and-the-storage-infrastructure.html -- problems found: 2
+    408 http://www.scunetworks-wib.org/wib_conference/speaker.html
+    500 http://action.one.org/dia/organizationsONE/one/content.jsp?content_KEY=70
+posts/2006-12-26-tap00006-biggest-mistakes-of-2006.html -- problems found: 1
+    404 http://www.ducttapemarketing.com/comments.php?id=167_0_1_0_C
+posts/2006-12-27-dpr00009-top-tech-highlights-of-2006.html -- problems found: 5
+    500 http://www.paulgillin.com/2006/12/times-person-of-year-choice-is-on-money.html
+    408 http://www.nbc.com/Heroes/>
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=insidesystemstorage_makes_the_data_storage
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=building_a_snowman_in_second
+    403 http://www.ac-grenoble.fr/ecole/hauteluce/ecole/photo/Mus%E9e%20Grenoble%20012.jpg
+posts/2006-12-29-smr00034-videos-of-2006.html -- problems found: 3
+    408 http://www.share2006.com/
+    408 http://www.devilducky.com/media/57946/
+    404 http://www.poughkeepsiejournal.com/apps/pbcs.dll/article?AID=/20061223/BUSINESS/612230306
+posts/2007-01-02-dpr00009-data-center-resolutions.html -- problems found: 4
+    404 http://www.glennwolsey.com/2007/01/02/blogging-101-plan-and-a-vision/
+    404 http://www.mediterrasian.com/2005/04/eat_less_exercise_more.htm
+    403 http://www.realage.com/doctorCenter/YouOnADiet/entry1.aspx?cbr=YDGGLE01
+    404 http://www.redbooks.ibm.com/abstracts/sg247030.html
+posts/2007-01-03-tap00006-data-center-resolutions-staying-on-budget.html -- problems found: 1
+    408 http://www.3par.com/documents/realworld_storage_utilization.pdf
+posts/2007-01-04-san00005-data-center-resolutions-lighten-up.html -- problems found: 6
+    408 http://www.tucsonlaughterclub.org
+    404 http://home.about.com/z/cg/vp.htm?ch=health&l=health/v/13&ap=1
+    410 http://arcadiax.vox.com/library/post/truth-dares-and-the-art-of-positive-thinking.html
+    408 http://www.washingtonpost.com/wp-dyn/content/article/2005/10/08/AR2005100801405.html
+    404 http://www.wired.com/news/technology/internet/0,72396-0.html?tw=wn_story_page_prev2
+    408 www.live365.com
+posts/2007-01-04-tap00006-data-center-resolutions-hone-your-tools-and-skills.html -- problems found: 2
+    408 http://www-142.ibm.com/software/sw-lotus/products/product4.nsf/wdocs/noteshomepage
+    404 http://ptech.wsj.com/ptech.html
+posts/2007-01-08-san00005-year-of-the-san.html -- problems found: 4
+    404 http://www.echannelline.com/canada/story.cfm?item=DLY010307-3
+    404 http://esa.un.org/unup/p2k0data.asp
+    404 http://www-rcf.usc.edu/~clingerm/history.html
+    406 http://www.skendric.com/san/san-history-plumbing.pdf
+posts/2007-01-11-san00005-storage-area-network-home-networks.html -- problems found: 12
+    408 http://waxbanks.typepad.com/blog/2007/01/thinking_differ.html
+    404 http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?family=AppleTV&esvt=GOUSE4904911&esvadt=999999-0-56222-1&esvid=2096
+    400 http://events.apple.com.edgesuite.net/j47d52oo/event/
+    410 http://zaynehumphrey.vox.com/library/post/iphoneapple-tvcesno-foget-the-last-part-this-is-about-the-macworld-keynote.html
+    404 http://www.glennwolsey.com/2007/01/10/macworld-2007-keynote-reactions/
+    408 http://ce.seekingalpha.com/article/23916
+    408 http://www.soulcast.com/post/show/43795/DIGITAL-HOME-OF-THE-FUTURE---STRUCTURE-AND-CONTENT-TO-BE-SHAPED-NEXT-WEEK%21
+    408 http://www.internet-nexus.com/2006/12/microsoft-salutes-retiring-bill-gates.htm
+    408 <a href=
+    500 http://www.infoworld.com/article/07/01/09/HNcesintelligentnetworks_1.html
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=top_tech_highlights_of_2006
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ilm_for_my_ipod
+posts/2007-01-12-san00004-storage-area-networks-convergence.html -- problems found: 2
+    408 http://whiteboard.ups.com/
+    404 http://news.yahoo.com/s/nm/20070109/tc_nm/electronics_show_visa_dc
+posts/2007-01-15-smr00034-vision-for-the-future.html -- problems found: 2
+    502 http://users1.barrons.com/lmda/do/checkLogin?mg=evo-barrons&url=http%3A%2F%2Fonline.barrons.com%2Farticle%2FSB116502105947538684.html
+    404 http://www.ibmeye.com/ibm-stock-poised-for-another-strong-year/
+posts/2007-01-16-smr00034-ibm-introduces-ds3000-new-entry-level-disk-storage.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/storage/disk/ds3200/
+    404 http://www-03.ibm.com/systems/storage/disk/ds3400/
+posts/2007-01-17-tap00006-keeping-it-brief.html -- problems found: 2
+    408 http://youblog.typepad.com/the_youblog/
+    408 www.bn.com
+posts/2007-01-19-smr00034-spending-those-ten-thousand-steps.html -- problems found: 1
+    408 www.backpackit.com
+posts/2007-01-24-smr00034-in-search-of-matching-information.html -- problems found: 6
+    403 http://www.microsoft.com/presspass/features/2006/may06/05-15ECM.mspx
+    408 http://intranetblog.blogware.com/blog/InformationArchitecture
+    500 http://www.dmreview.com/article_sub.cfm?articleId=1072893
+    404 http://www.aiia.com.au/i-cms.isp?file=1159/Tony_Pearson_160206.pdf
+    404 http://www.cellphys.ubc.ca/awards00-02.htm
+    410 http://www.bodybuilders.com/tonyp.htm
+posts/2007-01-26-tap00006-when-names-change.html -- problems found: 5
+    404 http://consumerist.com/consumer/colbert/stephen-colbert-explains-the-cingularattbellsouth-merger-229357.php
+    408 http://kipesquire.powerblogs.com/posts/1166202048.shtml
+    404 http://www-03.ibm.com/systems/storage/disk/ds8000/index.html
+    404 http://www.exitcertified.com/courses/details/op052.html
+    408 tpc.com
+posts/2007-02-04-tap00006-ibm-helping-filmmakers.html -- problems found: 1
+    408 http://www.afc.gov.au/newsandevents/afcnews/converse/khoado/newspage_150.aspx
+posts/2007-02-09-smr00034-coolblue-for-power-and-cooling.html -- problems found: 1
+    404 http://www-03.ibm.com/servers/eserver/xseries/storage/pdf/IBM_RDHx_Spec_Sheet.pdf
+posts/2007-02-12-smr00034-what-would-it-take.html -- problems found: 1
+    503 http://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959
+posts/2007-02-15-fla00019-hu-yoshida-should-know-better.html -- problems found: 1
+    404 http://blogs.hds.com/hu/2007/02/storage_virtualization_and_vendor_lock_in.html
+posts/2007-02-20-fla00019-clothing-servers-with-storage.html -- problems found: 1
+    404 http://www-03.ibm.com/systems/storage/disk/ds8000/index.html
+posts/2007-02-27-fla00019-mainframes-versus-supercomputers.html -- problems found: 2
+    404 http://blogs.hds.com/hu/2007/02/it_helps_to_clarify.html
+    404 http://www.storageperformance.org/results
+posts/2007-02-28-smr00034-take-your-parents-to-work-day.html -- problems found: 1
+    404 http://www.technewsworld.com/story/PVNAxBif3MBji0/Second-Life-Residents-Speak-for-Themselves.xhtml
+posts/2007-03-05-fla00019-fleet-cars-and-skin-cells.html -- problems found: 4
+    404 http://usedcars.about.com/od/howlongwillyoukeepit/a/whybuy5.htm
+    404 http://en.wiktionary.org/wiki/Kaput
+    404 http://www.hhmi.org/cgi-bin/askascientist/highlight.pl?kw=&file=answers%2Fgeneral%2Fans_025.html
+    404 http://ask.yahoo.com/20021017.html
+posts/2007-03-06-fla00019-moving-on-up-in-2007.html -- problems found: 2
+    404 http://www.gartner.com/it/about_gartner.jsp
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=storage_race_heats_up
+posts/2007-03-08-smr00034-welcome-elisabeth-stahl-to-the-blogosphere.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/benchmarking
+posts/2007-03-09-dpr00009-importance-of-business-continuity-planning.html -- problems found: 2
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=fleet_cars_and_skin_cells#comments
+    408 http://www.drunkendata.com/?p=1013
+posts/2007-03-15-smr00034-700-billionaires-keep-on-working.html -- problems found: 2
+    408 http://youblog.typepad.com/the_youblog/2007/03/is_success_simp.html
+    404 http://blog.guykawasaki.com/2007/03/the_effort_effe.html
+posts/2007-03-22-smr00033-held-hostage-by-information-overload.html -- problems found: 1
+    404 http://www.acm.org/crossroads/xrds1-1/mnelson.html
+posts/2007-03-22-smr00034-silent-to-sound-to-digital.html -- problems found: 1
+    404 http://scienceblogs.com/insolence/2007/01/star_wars_reimagined_as_a_silent_movie.php
+posts/2007-03-23-smr00033-asu-turns-to-google.html -- problems found: 2
+    403 http://www.asu.edu/
+    404 http://video.google.com/videoplay?docid=-6909078385965257294
+posts/2007-03-26-smr00033-productivity-center-in-leader-quadrant.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/storage/software/center/index.html
+    404 http://www-03.ibm.com/systems/virtualization/systemsdirector/
+    404 http://blog.guykawasaki.com/2006/06/the_art_of_the_.html
+posts/2007-03-27-fob00005-2007-state-of-the-site-for-ibm-tucson.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/services/briefingcenter/tbc/
+    403 http://www.dovemountain.com/
+posts/2007-03-28-smr00033-virtual-worlds-conference-spring-2007.html -- problems found: 2
+    408 http://www.booch.com/architecture/blog.jsp
+    406 http://www.robertsrules.com/
+posts/2007-04-02-dpr00009-information-versus-data-lifecycle-management.html -- problems found: 1
+    404 http://feeds.hds.com/~r/hds/hu-yoshida/~3/105264951/storage_data_information.html 
+posts/2007-04-02-smr00033-apple-emi-and-drm-free-downloads.html -- problems found: 1
+    404 http://www.boingboing.net/2006/04/28/sony_screwing_artist.html
+posts/2007-04-03-fla00019-new-category-super-high-end.html -- problems found: 4
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_introduces_ds3000_new_entry
+    404 http://www-03.ibm.com/systems/storage/disk/ds8000/index.html
+    404 http://www.storageperformance.org/results/a00049_IBM-DS8300-Turbo_SPC1_executive-summary.pdf
+    404 http://www.storageperformance.org/results/a00049_IBM-DS8300-Turbo_SPC1_full-disclosure.pdf
+posts/2007-04-04-tap00005-more-ibmers-join-the-blogosphere.html -- problems found: 3
+    406 http://solsie.com/ibm-donates-speech-translation-technology-for-humanitarian-efforts-in-iraq/
+    406 http://solsie.com/
+    408 http://www.snwusa.com/
+posts/2007-04-09-smr00033-bodyworlds-and-visualization-of-information.html -- problems found: 1
+    404 http://www.bodyworlds.com/index.html
+posts/2007-04-17-smr00033-snw-2007-part-1.html -- problems found: 1
+    408 http://www.snwusa.com/
+posts/2007-04-18-san00004-snw-spring-2007-part-2.html -- problems found: 1
+    408 www.snwusa.com
+posts/2007-04-19-smr00033-snw-spring-2007-part-3.html -- problems found: 2
+    403 http://www.quaker.org/clq/2006/TQE146-EN-Ghosts.html
+    406 http://www.comedywithabyte.com/home.shtml
+posts/2007-04-20-smr00033-snw-spring-2007-part-4.html -- problems found: 1
+    403 http://edrm.net/
+posts/2007-04-27-dpr00009-worst-black-out-in-22-years.html -- problems found: 1
+    404 http://www.cnn.com/2007/WORLD/americas/04/26/colombia.blackout.ap/index.html
+posts/2007-05-01-smr00033-partnerworld-2007-gateway-to-growth.html -- problems found: 2
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=product_launch_in_second_life
+    408 http://www.vnunet.com/crn/news/2008910/win-pwin-situation-ibm?vnu_lt=vnu_art_related_articles
+posts/2007-05-02-tap00005-first-ever-live-virtual-virtualization-tech-fair.html -- problems found: 3
+    403 http://www.microsoft.com/windowsserversystem/virtualserver/default.mspx
+    404 http://www-03.ibm.com/systems/p/apv/
+    404 http://www-03.ibm.com/systems/z/virtualization/
+posts/2007-05-03-smr00033-gartner-predicts-80-by-2011.html -- problems found: 4
+    408 http://www.electronista.com/articles/07/04/24/vr.worlds.rule.by.2011/
+    404 http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9018238&pageNumber=4
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=product_launch_in_second_life
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=partnerworld_2007_gateway_to_growth
+posts/2007-05-04-smr00033-google-and-the-prime-directive.html -- problems found: 3
+    408 http://www.drunkendata.com/
+    403 http://www.thomaslfriedman.com/worldisflat.htm
+    503 http://www.amazon.com/Lexus-Olive-Tree-Understanding-Globalization/dp/0385499345
+posts/2007-05-07-san00004-congratulations-to-wolfgang-singer.html -- problems found: 1
+    404 http://blogs.netapp.com/dave/TechTalk/?permalink=Is-iSCSI-SAN-or-is-iSCSI-NAS-I-Don-rsquo-t-Know.html
+posts/2007-05-23-smr00033-may-2007-announcement-recap.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/x/rack/x3550/
+    404 http://www.ibm.com/common/ssi/OIX.wss?DocURL=http://d03xhttpcl001g.boulder.ibm.com/common/ssi/rep_ca/7/897/ENUS207-117/index.html&InfoType=AN&InfoSubType=CA&InfoDesc=Announcement+Letters&panelurl=&paneltext=
+posts/2007-05-25-san00004-inaugural-brand-impact-2007-awards.html -- problems found: 1
+    403 http://www.liquidagency.com/
+posts/2007-05-28-smr00033-dealing-with-jet-lag.html -- problems found: 4
+    404 http://www.ynhh.org/online/nutrition/advisor/red_wine.html
+    404 http://www.surgeongeneral.gov/news/testimony/obesity07162003.htm
+    404 http://www.straightdope.com/columns/011005.html
+    408 http://www.cosmosmagazine.com/node/1334
+posts/2007-05-30-tap00005-what-happened-to-cas.html -- problems found: 7
+    408 http://esgblogs.typepad.com/stor_wars/2007/05/cas_not_cas.html
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=blocks_files_and_content_addressable
+    404 http://www-03.ibm.com/systems/storage/disk/dr/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/dr/express/index.html
+    404 http://www-03.ibm.com/systems/storage/nas/
+    404 http://www-03.ibm.com/systems/storage/software/gam/index.html
+    404 http://www-03.ibm.com/systems/storage/news/press/20070516.html
+posts/2007-06-11-smr00033-upcoming-events-in-second-life.html -- problems found: 1
+    404 http://www.ibm.com/developerworks/offers/techbriefings/details/web20sl.html?S_TACT=105AGY53&S_CMP=SLW20
+posts/2007-06-12-smr00032-we-copied-what-from-whom.html -- problems found: 1
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hu_yoshida_should_know_better
+posts/2007-06-13-dpr00009-exchange-2003-vss-snapshot-backup-whitepaper.html -- problems found: 1
+    404 http://www.ibm.com/support/techdocs/atsmastr.nsf/WebIndex/WP101009
+posts/2007-06-15-tap00005-resurgence-of-interest-in-tape.html -- problems found: 7
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_passes_all_major_vendors
+    408 http://funwithtape.com/
+    408 http://www.backuptrauma.com/main.html
+    408 http://www.drunkendata.com/?p=1134
+    408 http://blogs.sun.com/CHALFANTblog/entry/the_death_of_tape_oh
+    408 http://blogs.sun.com/CHALFANTblog/entry/disk_only_solutions_are_suffering
+    404 http://en.wikipedia.org/wiki/Father's_day
+posts/2007-06-21-tap00005-sock-sock-shoe-shoe.html -- problems found: 1
+    404 http://www.americanscientist.org/template/AssetDetail/assetid/18919/page/4;jsessionid=baa9...
+posts/2007-06-27-tap00005-how-many-watts-per-terabyte.html -- problems found: 1
+    408 http://esgblogs.typepad.com/steves_it_rants/2007/06/there_are_only_.html
+posts/2007-06-28-smr00032-playing-well-with-others.html -- problems found: 1
+    404 http://online.wsj.com/article/SB118194536298737221-search.html?KEYWORDS=ibm&COLLECTION=wsjie/6month
+posts/2007-07-16-dpr00009-when-help-is-thousands-of-miles-away.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=announcements_for_july_2007
+    408 http://www.drunkendata.com/?p=1224
+posts/2007-07-17-dpr00009-identification-of-scenarios-for-business-continuity.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=when_help_is_thousands_of
+    406 http://www.sutor.com/newsite/blog-open/?cat=63
+posts/2007-07-18-dpr00009-business-continuity-for-new-bladecenter-solid-state-disk.html -- problems found: 5
+    404 http://blogs.cnet.com/8301-13554_1-9740476-33.html?tag=blog.1
+    404 http://blogs.cnet.com/8301-13554_1-9741325-33.html?tag=blog.4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=fleet_cars_and_skin_cells
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hybrid_solid_state_and_the
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=how_many_watts_per_terabyte
+posts/2007-07-20-dpr00008-separating-programs-from-data.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=when_help_is_thousands_of
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=business_continuity_for_new_bladecenter
+    408 http://www-307.ibm.com/pc/support/site.wss/MIGR-4Q2QAK.html
+    408 http://wiki.linuxquestions.org/wiki/Dd
+    404 http://www.symantec.com/home_homeoffice/products/overview.jsp?pcid=sp&pvid=pm80
+posts/2007-07-21-fla00019-getting-under-emc-skin.html -- problems found: 3
+    404 http://www.storageperformance.org/press/SPC_IBM_SVC_final2.pdf
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hybrid_solid_state_and_the
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=management_of_scarcity_and_the
+posts/2007-07-22-smr00032-the-petronas-twin-towers.html -- problems found: 3
+    404 http://www.petronastwintowers.com.my/internet/pett/pettweb.nsf/flash_intro?OpenPage
+    404 http://www.storageperformance.org/press/SPC_IBM_SVC_final2.pdf
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=getting_under_emc_s_skin
+posts/2007-07-25-smr00032-performance-metrics-for-disk-systems.html -- problems found: 1
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=what_constitutes_a_disk_system
+posts/2007-07-26-fla00018-why-not-miles-per-hour.html -- problems found: 4
+    403 http://thestorageanarchist.com
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=what_constitutes_a_disk_system
+    408 http://thestorageanarchist.typepad.com/weblog/2007/07/0019-dmx-4-and-.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=how_many_watts_per_terabyte
+posts/2007-07-26-fla00019-spc-benchmarks-for-disk-system-performance.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_petronas_twin_towers
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=what_constitutes_a_disk_system
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=performance_metrics_for_disk_systems
+    404 http://www.storageperformance.org/home
+    404 http://www.storageperformance.org/press/SPC_IBM_SVC_final2.pdf
+posts/2007-07-30-san00004-san-connectivity-for-blade-servers.html -- problems found: 2
+    408 http://blogs.rupturedmonkey.com/?p=112
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_inner_workings_of_storage
+posts/2007-08-02-smr00032-mark-your-calendars-august-2007.html -- problems found: 2
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss/us/en?pageType=page&c=a0000710
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0012166
+posts/2007-08-06-smr00032-welcome-barryw-to-the-blogosphere.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization
+    408 http://thestorageanarchist.typepad.com/
+posts/2007-08-07-dpr00008-fundamental-changes-for-green-data-centers.html -- problems found: 5
+    408 http://www.drunkendata.com/?p=1247
+    408 http://www.drunkendata.com/?p=1250
+    408 http://www.drunkendata.com/?p=1253
+    404 http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9028958&source=NLT_AM&nlid=8
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=how_many_watts_per_terabyte
+posts/2007-08-08-smr00032-itil-standards-for-storage-administrators.html -- problems found: 2
+    408 http://blogs.rupturedmonkey.com/?p=114
+    404 http://www.itilsurvival.com/ITILhistory.html
+posts/2007-08-09-smr00032-major-web-platforms.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=data_center_resolutions_lighten_up
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=data_center_resolutions_hone_your
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage?tag=Green
+    410 http://webworkerdaily.com/2007/07/24/12-ways-to-use-facebook-professionally/
+posts/2007-08-13-smr00032-ibm-launches-big-green-linux-initiative.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=fundamental_changes_for_green_data
+    408 
+    500 http://weblog.infoworld.com/sustainableit/archives/2007/08/mainframes_big.html?source=rss
+    404 http://www.crn.com/software/172301643
+    403 http://www.theregister.co.uk/2007/08/08/linuxworld_07_xensource_simon_crosby/
+posts/2007-08-15-dpr00008-using-ilm-to-save-trees.html -- problems found: 7
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?tag=Lifecycle
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ilm_for_my_ipod
+    404 http://www.snia.org/tech_activities/dmf/docs/SNIA-DMF_ILM-Roadmap_20051013.pdf
+    408 http://www.ibm.com/solutions/sg/itsolutions/info_cycle/summary.html
+    408 http://www.travelingforever.com/index.php?option=com_content&task=view&id=19&Itemid=43
+    404 http://www.infosys.com/about/cases/INFOSYS6%20case%20withchanges.pdf
+    404 http://searchstorage.techtarget.com/loginMembersOnly/1,289498,sid5_gci1267190,00.html
+posts/2007-08-20-smr00032-day-1-storage-symposium-2007.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage/20070501
+    404 http://www.opticatech.com/products_premier.html
+posts/2007-08-24-dpr00008-day-5-storage-symposium-2007.html -- problems found: 1
+    404 http://www.ibm.com/training/us/conf/stor
+posts/2007-08-27-smr00032-accessing-data-in-the-clouds.html -- problems found: 1
+    404 http://www.roughtype.com/archives/2007/08/wheres_my_cloud.php
+posts/2007-08-31-smr00032-has-it-been-a-year-already.html -- problems found: 11
+    404 http://www.ibm.com/blogs/zz/en/guidelines.html
+    403 http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/win_notepad_whatis_intro.mspx
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=aperi_is_viagra_for_smi
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=insidesystemstorage_makes_the_data_storage
+    401 http://architectures.danlockton.co.uk/2006/12/16/partial-vs-full-feeds/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=double_happy_wedding_ibm_acquires
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=technorati_claim
+    406 http://marshallk.com/?p=32
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=fun_with_storage_videos
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=building_a_snowman_in_second
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization
+posts/2007-09-09-smr00032-yes-chris-svc-is-non-disruptive.html -- problems found: 1
+    401 http://architectures.danlockton.co.uk/2007/07/24/anti-public-seating-roundup/
+posts/2007-09-10-tap00005-registration-closes-this-week-for-sep-20-event.html -- problems found: 1
+    408 http://www.doonesbury.com/strip/dailydose/index.html?uc_full_date=20070909
+posts/2007-09-12-fla00018-consolidation-in-the-storage-systems-market.html -- problems found: 1
+    408 http://esgblogs.typepad.com/stor_wars/2007/08/the-billion-dol.html
+posts/2007-09-18-tap00005-supermarkets-and-specialty-shops.html -- problems found: 3
+    404 http://www.forrester.com/Research/Document/Excerpt/0,7211,42345,00.html
+    403 http://www.theregister.co.uk/2006/06/27/gcg_server/
+    404 http://www.byteandswitch.com/document.asp?doc_id=133041
+posts/2007-09-19-dpr00008-ibm-think-green-roadshow-2007.html -- problems found: 1
+    408 https://www-926.ibm.com/events/energy/energyefc.nsf
+posts/2007-09-20-tap00005-september-20-second-life-event.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=announcements_for_july_2007
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=announcements_for_august_2007
+posts/2007-09-21-tap00005-the-art-of-evangelism.html -- problems found: 1
+    404 http://blog.guykawasaki.com/2007/09/the-art-of-evan.html
+posts/2007-10-01-tap00005-switching-over-from-what-and-why.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=50_years_of_disk_systems
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=inaugural_brand_impact_2007_awards
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_passes_all_major_vendors
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=getting_under_emc_s_skin
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=aug_29_announce_of_tape
+posts/2007-10-02-tap00005-top-women-in-storage.html -- problems found: 2
+    404 http://www.byteandswitch.com/document.asp?doc_id=133990&WT.svl=news1_2
+    404 http://online.wsj.com/article/SB118955478194424452.html?mod=todays_us_nonsub_page_one
+posts/2007-10-03-fla00018-welcome-to-the-super-high-end-club.html -- problems found: 8
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=new_category_super_high_end
+    408 http://www.newswiretoday.com/news/24156/
+    408 http://thestorageanarchist.typepad.com/weblog/2007/10/0039-ibm-and-sp.html
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=so_i_guess_that_only
+    404 http://blogs.hds.com/claus/2007/10/the_olympics_of_storage.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=getting_under_emc_s_skin
+    404 http://www-03.ibm.com/developerworks/blogs/page/InsideSystemStorage/20070730
+    404 http://www.storageperformance.org/results/benchmark_results_spc1
+posts/2007-10-05-smr00031-certified-server-and-storage-virtualization.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=svc_fully_certified_with_vmware
+posts/2007-10-10-smr00031-2007-best-and-worst-vendor-blogs.html -- problems found: 2
+    404 http://www.networkworld.com/news/2006/121406-top-10-network-storage-blogs.html
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization
+posts/2007-10-11-tap00005-albert-fert-and-peter-gruenberg-win-nobel-prize.html -- problems found: 2
+    404 http://www.research.ibm.com/research/gmr.html
+    408 http://domino.research.ibm.com/comm/pr.nsf/pages/news.20060516_magnetic.html
+posts/2007-10-30-tap00004-announcement-recap-for-october-2007.html -- problems found: 2
+    403 http://www.theregister.co.uk/2007/10/23/ibm_october_storage_update_bonanza/
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=announced_svc_v4_2_1
+posts/2007-10-31-dpr00008-snw-offers-the-frights.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=day_1_storage_symposium_2007
+posts/2007-11-01-fla00018-not-letting-the-wookie-win.html -- problems found: 4
+    408 http://thestorageanarchist.typepad.com/weblog/2007/10/0044-not-dead-y.html
+    408 http://thestorageanarchist.typepad.com/weblog/2007/10/0045-pushing-da.html
+    408 http://thestorageanarchist.typepad.com/weblog/2007/07/0019-dmx-4-and-.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=day_2_storage_symposium_2007
+posts/2007-11-06-dpr00008-sap-and-ibm-system-storage.html -- problems found: 6
+    404 http://www-05.ibm.com/de/worktogether/pdfs/isicc_overview10may2005.pdf
+    404 http://www-03.ibm.com/systems/p/news/pressreleases/2006/jul/benchmarks.html
+    404 http://www-03.ibm.com/solutions/sap/doc/content/landingdtw/1605307130.html
+    404 http://www.sap.com/platform/netweaver/pdf/BWP_AR_IDC_BI_Accelerator.pdf
+    404 http://www.roughtype.com/archives/2007/09/bydesign_has_sa.php
+    404 http://www-03.ibm.com/solutions/sap/index.jsp
+posts/2007-11-07-dpr00008-microsoft-exchange-email-server.html -- problems found: 7
+    404 http://www.zdnet.com.au/insight/software/soa/Ximian-Evolution-In-Exchange-for-Outlook/0,139023769,139162532,00.htm
+    404 http://www.linuxjournal.com/article/6368
+    404 http://www.linuxjournal.com/article/6734
+    403 http://www.microsoft.com/exchange/evaluation/editions.mspx
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=exchange_2003_vss_snapshot_backup
+    404 http://www-03.ibm.com/systems/storage/solutions/pdf/email_archive_preload.pdf
+    403 http://www.microsoft.com/presspass/press/2006/may06/05-02DuetPR.mspx
+posts/2007-11-08-smr00031-oracle-database-and-enterprise-applications.html -- problems found: 7
+    403 http://www.itjungle.com/fhs/fhs041707-story01.html
+    404 http://www.oracle.com/applications/e-business-suite.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=similar_sounding_storage_speech
+    404 http://www.oracle.com/technologies/linux/ubl-faq.pdf
+    404 http://searchenterpriselinux.techtarget.com/originalContent/0,289142,sid39_gci1268047,00.html
+    404 http://www.oracle.com/applications/applications-unlimited.html
+    404 http://www-03.ibm.com/solutions/businesssolutions/oracle/doc/content/landingdtw/1972529128.html?g_type=pspot
+posts/2007-11-09-fla00018-ibm-entry-level-iscsi-offerings.html -- problems found: 7
+    408 http://esgblogs.typepad.com/stor_wars/2007/11/dells-logic---t.html
+    408 http://esgblogs.typepad.com/steves_it_rants/2007/11/dell-just-bough.html
+    408 http://esgblogs.typepad.com/steves_it_rants/2007/04/catching_up.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=supermarkets_and_specialty_shops
+    404 http://www.byteandswitch.com/document.asp?doc_id=13563
+    404 http://www.byteandswitch.com/document.asp?doc_id=40097
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=announcement_recap_for_october_2007
+posts/2007-11-12-san00004-innovation-that-matters-xo-laptop-give-1-get-1.html -- problems found: 2
+    404 http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?node=home/shop_ipod/family/ipod_touch&cid=OAS-US-KWG-iPodBrandTerms-US&aosid=p202&esvt=GOUSE&esvadt=999999-1102606-1042867-1&esvid=101321
+    408 http://www.laptopgiving.org/en/index.php
+posts/2007-11-13-smr00031-innovation-that-matters-mapquest-neverlost-and-the-knowledge-worker.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_inner_workings_of_storage
+    408 http://hertzneverlost.com/
+    404 http://www.pcworld.com/article/id,109560/article.html
+    404 http://www.bythom.com/neverlost.htm
+posts/2007-11-14-dpr00008-innovation-that-matters-energy-efficiency-and-the-smart-car.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/management/director/extensions/actengmrg.html
+    404 http://www-03.ibm.com/systems/optimizeit/cost_efficiency/energy_efficiency/technology.html
+    404 http://www-03.ibm.com/systems/virtualization/systemsdirector/uam/
+posts/2007-11-15-smr00031-innovation-that-matters-cell-phones-and-cloud-computing.html -- problems found: 7
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=storage_area_networks_convergence
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=accessing_data_in_the_clouds
+    503 http://www.usatoday.com/tech/wireless/2007-11-13-moible-networking_N.htm
+    408 http://youblog.typepad.com/the_youblog/2007/11/what-business-a.html
+    408 http://www.ibm.com/developerworks/blogs/page/powerarchitecture?entry=it_came_from_the_fab10
+    404 http://www-304.ibm.com/jct09002c/university/scholars/skills/internet-scale/index.html
+    403 http://www.itjungle.com/bns/bns100807-story02.html
+posts/2007-11-16-smr00031-innovation-that-matters-svc-and-the-bendy-straw.html -- problems found: 4
+    408 http://www.shell.com/home/PlainPageServlet?FC=/aboutshell-en/html/iwgen/shell_real/shell_solutions/films/app_view_film.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hu_yoshida_should_know_better
+    404 http://computerworld.com/action/article.do?command=viewArticleBasic&articleId=9044708&pageNumber=1
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=lowest_vendor_neutral_denominator
+posts/2007-11-19-san00004-updates-on-second-life.html -- problems found: 1
+    404 http://www.computerworld.com/action/article.do?command=viewArticleBasic&taxonomyId=16&articleId=9045198&intsrc=hm_topic
+posts/2007-11-20-smr00031-bob-hoey-does-it-again.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=training_videos
+posts/2007-11-27-dpr00008-cyber-monday-and-internet-brown-outs.html -- problems found: 4
+    404 http://blogs.usatoday.com/ondeadline/2007/11/cyber-monday-do.html
+    404 http://itknowledgeexchange.techtarget.com/overheard/overheard-internet-brown-out/?track=NL-35&ad=614921&asrc=EM_USC_2645180&uid=438417
+    404 http://www.emc.com/about/destination/digital_universe/pdf/Expanding_Digital_Universe_IDC_WhitePaper_022507.pdf
+    403 http://zenhabits.net/2007/08/a-3-step-cure-for-digital-packrats-and-how-to-know-if-youre-one-of-them/
+posts/2007-11-28-san00004-my-blook-is-now-available.html -- problems found: 2
+    403 http://www.rall.com/
+    408 http://lulublookerprize.typepad.com/
+posts/2007-11-29-smr00031-ibm-combo-trounces-hp-and-sun.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=supermarkets_and_specialty_shops
+    404 http://www-03.ibm.com/systems/storage/disk/ds4000/ds4800/
+posts/2007-11-30-fob00005-healthalliance-deploys-ibm-storage-grid.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=what_happened_to_cas
+    404 http://www-03.ibm.com/systems/storage/software/gam/index.html
+    404 http://www-03.ibm.com/systems/clusters/software/gpfs/index.html
+    404 http://www-03.ibm.com/grid/pdf/fsgmas.pdf
+posts/2007-12-03-smr00031-ins-and-outs-of-blooking.html -- problems found: 2
+    404 http://blooking.blogspot.com/2007/11/inside-system-storage.html
+    408 http://symphony.lotus.com/software/lotus/symphony/home.jspa
+posts/2007-12-04-fla00018-high-end-storage-melt-down.html -- problems found: 3
+    408 http://storagemojo.com/2007/11/28/the-high-end-storage-meltdown/
+    404 http://www.byteandswitch.com/document.asp?doc_id=139888&WT.svl=news1_1
+    404 http://blogs.hds.com/hu/2007/11/dynamic_provisioning_delivered_through_soss.html
+posts/2007-12-05-smr00031-the-double-bottom-line.html -- problems found: 6
+    404 http://www.theglobeandmail.com/servlet/story/LAC.20071204.SRSOCIALMAIN04/TPStory/?query=double+bottom+line
+    500 http://action.one.org/about/
+    500 http://action.one.org/blog/?p=195
+    408 http://oneshpe.shpe.org/wps/portal/national
+    404 http://www.squidoo.com/fastshopping/
+    403 http://www.jdrf.org/
+posts/2007-12-10-smr00031-ibm-ranked-best-2007-research-development-company.html -- problems found: 2
+    403 http://www.rdmag.com/ShowPR.aspx?PUBCODE=014&ACCT=1400000100&ISSUE=0710&RELTYPE=CVS&PRODCODE=00000000&PRODLETT=C&CommonCount=0
+    403 http://www.rdmag.com/pdf/RD0710_cos.pdf
+posts/2007-12-13-smr00031-ibm-service-management-part-2.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_service_management_articles_on
+posts/2007-12-14-smr00030-ibm-service-management-part-3.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_service_management_articles_on
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_service_management_part_2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=self_tuning_guitars_and_storage
+posts/2007-12-17-smr00030-royalties-for-software-engineers-too.html -- problems found: 2
+    410 http://webworkerdaily.com/2007/12/14/gates-on-collaboration-and-continued-learning/
+    408 http://storagemojo.com/2007/12/12/why-are-the-writers-striking/
+posts/2007-12-18-smr00030-what-if-storage-were-free.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_long_tail
+    408 http://www.netvision.de/uk/dispatching/?event_id=5bb1b5e95afabb2e62d2b148ded47706&portal_id=369401748e8249f142a700d8098a3473
+    404 http://www.roughtype.com/archives/2007/12/dominating_the.php
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=innovation_that_matters_cell_phones
+    404 http://www.nicholasgcarr.com/bigswitch/
+posts/2007-12-19-fla00018-three-questions-about-emc-invista.html -- problems found: 3
+    404 http://www.emc.com/news/emc_releases/showRelease.jsp?id=5487&l=en&c=US
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=deja_vu_invista_2_again
+    404 http://www.parkerhill.com/Summary%20of%20Crossing%20the%20Chasm.pdf
+posts/2007-12-20-fla00018-optimizing-data-retention-and-archiving.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/storage/disk/dr/index.html
+    408 http://www.drunkendata.com/?p=1540
+posts/2007-12-21-smr00030-planes-trains-and-automobiles.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=fundamental_changes_for_green_data
+    404 http://www-03.ibm.com/systems/storage/software/sspc/
+posts/2007-12-24-smr00030-my-xo-laptop-has-arrived.html -- problems found: 2
+    408 http://laptopgiving.org
+    408 http://www.snipshot.com
+posts/2007-12-27-fla00018-emulating-the-xo-on-another-computer.html -- problems found: 2
+    404 http://oui.com.br/n/content.php?article.23
+    404 http://fabrice.bellard.free.fr/qemu/linux-0.2.img.bz2
+posts/2007-12-27-smr00030-printing-on-xo-laptop-with-cups-and-lpr.html -- problems found: 1
+    408 http://home.swbell.net/berzerke/printing.html
+posts/2007-12-31-dpr00008-information-past-present-future.html -- problems found: 4
+    404 http://www.roughtype.com/archives/2007/12/cleaning_the_sl.php
+    408 
+    403 http://www.galacticast.com/2007/12/27/a-copyright-carol/
+    404 http://www.gseis.ucla.edu/iclp/dmca1.htm
+posts/2008-01-03-san00004-entering-a-new-era-in-it-information.html -- problems found: 1
+    404 http://www.aicpa.org/pubs/jofa/jul2003/telberg.htm
+posts/2008-01-04-fla00018-emc-electrocutes-the-elephant.html -- problems found: 3
+    408 http://thestorageanarchist.typepad.com/weblog/2008/01/0055-obligatory.html
+    404 http://www-03.ibm.com/systems/clusters/software/gpfs/index.html#sofslanding
+    404 http://labs.google.com/papers/gfs.html
+posts/2008-01-09-fla00018-more-questions-about-ibm-xiv-nextra-architecture.html -- problems found: 6
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=spreading_out_the_re_replication
+    408 http://thestorageanarchist.typepad.com/
+    408 http://www.drunkendata.com/?p=1574
+    403 http://www.theregister.co.uk/2008/01/08/emc_ax4_array/
+    408 http://www.xivstorage.com/nextra/tco.asp
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=optimizing_data_retention_and_archiving
+posts/2008-01-10-fla00018-cleaning-up-the-circus-gold.html -- problems found: 6
+    408 http://thestorageanarchist.typepad.com/weblog/
+    403 http://www.doubletongued.org/index.php/grantbarrett/circus_gold_singlism/
+    408 http://gridsec.usc.edu/files/publications/TPDS112907F1.pdf
+    408 http://www.drunkendata.com/?p=1575
+    408 http://www.ramskov.org/2007/02/is-raid-5-getting-old.php
+    404 http://online.wsj.com/article/SB119992887347879757.html?mod=wsjcrmain
+posts/2008-01-11-fob00005-new-years-resolutions-for-2008.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=my_blook_is_now_available
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=data_center_resolutions_staying_on
+    408 http://www.tucsonlaughterclub.org/
+posts/2008-01-15-fla00018-resolving-the-identity-crisis.html -- problems found: 10
+    404 http://www.redwoodsgroup.com/Corporate/NativeLanguageTheory.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=supermarkets_and_specialty_shops
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_entry_level_iscsi_offerings
+    404 http://www.prnewswire.com/mnr/emc/31368/
+    408 http://thestorageanarchist.typepad.com/weblog/2008/01/0059-bold-fast.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_acquires_xiv
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=business_continuity_for_new_bladecenter
+    408 http://blogs.sun.com/TA/entry/ibm_buys_xiv_good_move
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=fundamental_changes_for_green_data
+    404 http://www.roughtype.com/archives/2008/01/sun_behind_clou.php
+posts/2008-01-17-fla00018-reflections-on-macworld-2008-keynote-address.html -- problems found: 9
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=storage_area_network_home_networks
+    404 http://www.emc.com/about/news/press/us/2007/07162007-5180.htm
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=storage_area_networks_convergence
+    408 http://www.zjournal.com
+    404 http://thepiratesdilemma.com/about-the-book
+    408 http://youblog.typepad.com/the_youblog/2008/01/making-it-memor.html
+    404 http://home.socal.rr.com/fuweb/floppysite/theend.html
+    404 http://www.apple.com/quicktime/qtv/mwsf07/
+    403 http://blog.sessions.edu/uncategorized/new-apple-goodies-from-macworld/
+posts/2008-01-18-fla00018-does-size-really-matter-for-performance.html -- problems found: 1
+    408 http://thestorageanarchist.typepad.com/weblog/2008/01/0060-blinded-by.html
+posts/2008-01-21-smr00030-this-week-in-guadalajara-mexico.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/education/topgun/stortop.html
+    404 http://www.nytimes.com/aponline/technology/AP-IBM-Outlook.html?_r=1&ref=business&oref=slogin
+    403 http://sramanamitra.com/2008/01/18/ibm-also-looks-safe/
+posts/2008-01-23-fla00017-what-hds-math-is-emc-using-for-its-1tb-drives.html -- problems found: 2
+    404 http://www.emc.com/collateral/hardware/specification-sheet/c1166-dmx4-ss.pdf
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=one_box_fits_all_or
+posts/2008-01-28-smr00030-ibm-vm-catch-the-wave-poster.html -- problems found: 3
+    404 http://www.flickr.com/photos/26449036@N06/4508012284/
+    408 http://www.ee.umanitoba.ca/%7Ekinsner/about/gwave.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=plenty_of_daylight_in_arizona
+posts/2008-01-29-fla00017-five-in-five-for-2008.html -- problems found: 2
+    404 http://www.michaelmoore.com/sicko/dvd/
+    408 http://vm.cfsan.fda.gov/label.html
+posts/2008-01-30-fla00017-good-news-and-bad-news.html -- problems found: 8
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=getting_under_emc_s_skin
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_petronas_twin_towers
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=what_constitutes_a_disk_system
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=performance_metrics_for_disk_systems
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=spc_benchmarks_for_disk_system
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=why_not_miles_per_hour
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hybrid_solid_state_and_the
+    404 http://www.storageperformance.org/results/benchmark_results_spc1/#spc1_results
+posts/2008-02-01-fob00005-what-is-the-current-reality.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=a_recap_of_storage_industry
+    408 http://www.drunkendata.com/?p=1597
+posts/2008-02-05-dpr00008-internet-outage-in-asia-africa-and-middle-east.html -- problems found: 3
+    408 
+    408 http://www.ibm.com/developerworks/blogs/page/Turbo?entry=could_someone_please_get_king
+    404 http://www.roughtype.com/archives/2008/02/who_cut_the_cab.php
+posts/2008-02-07-fob00005-understanding-lamp-platform-for-web-20-workloads.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=printing_on_xo_laptop_with
+    503 http://www.communityfoodbank.com/
+    404 http://www.fedora-commons.org/about/outreach.php#video
+posts/2008-02-08-fla00017-getting-off-the-island-the-new-i5os-v6r1.html -- problems found: 6
+    404 http://www-03.ibm.com/systems/i/os/aix/
+    404 http://www-03.ibm.com/systems/i/os/linux/
+    404 http://www-03.ibm.com/systems/i/os/i5os/v6r1/index.html
+    404 http://www.ibmsystemsmag.com/i5/october06/administrator/7087p1.aspx
+    404 http://www-03.ibm.com/systems/power/software/virtualization/
+    404 http://www-03.ibm.com/systems/bladecenter/hardware/servers/js22e/
+posts/2008-02-12-tap00004-dr550-dr1-and-dr2-announced-today.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=new_storage_offerings_april_2007
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=what_happened_to_cas
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=blocks_files_and_content_addressable
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_dilemma_over_future_storage
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=seven_storage_predictions_for_2007
+posts/2008-02-15-tap00004-new-tape-systems-for-smb-clients.html -- problems found: 1
+    403 http://lto.org
+posts/2008-02-20-smr00030-second-consecutive-year-liquid-agency-brand-impact-award.html -- problems found: 6
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=inaugural_brand_impact_2007_awards
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=switching_over_from_what_and
+    403 http://www.liquidagency.com/
+    403 http://itmanagement.earthweb.com/cnews/article.php/3727446
+    404 https://www-304.ibm.com/jct03001c/software/solutions/soa/innov8.html
+    408 http://symphony.lotus.com/software/lotus/symphony/home.jspa
+posts/2008-02-21-tap00004-i-nearly-fell-out-of-my-chair.html -- problems found: 2
+    408 http://thestorageanarchist.typepad.com/weblog/2008/02/0064-meet-bob-a.html
+    404 http://www-03.ibm.com/systems/storage/tape/ts7520/index.html
+posts/2008-02-25-smr00030-saying-more-with-less-words.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=i_nearly_fell_out_of
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=my_blook_is_now_available
+posts/2008-02-26-san00004-is-your-data-center-ready-for-the-future.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/optimizeit/datacenter/
+    404 http://www-03.ibm.com/systems/optimizeit/datacenter/pdf/nedc_pov_feb_2008.pdf
+posts/2008-03-03-dpr00008-duduplication-versus-best-practice-for-backups.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=times_a_million
+    408 http://esgblogs.typepad.com/steves_it_rants/2008/02/random-thoughts.html
+    404 http://blogs.hds.com/hu/2008/03/pre_post_and_in_line_deduplication_ratios.html
+    408 http://aix2.caspur.it/ibm/tsm-5.1.5/mvs/html/qstart/anrmqs15.htm
+posts/2008-03-06-smr00030-moving-to-nepal.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=understanding_lamp_platform_for_web
+posts/2008-03-07-tap00004-ibm-number-one-in-disk-and-tape-again.html -- problems found: 1
+    500 http://www.idc.com/getdoc.jsp;jsessionid=4KE04XO14LA3YCQJAFDCFEYKBEAVAIWD?containerId=prUS21126708
+posts/2008-03-10-fob00005-sharing-data-to-minimize-email-attachments.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=duduplication_versus_best_practice_for
+posts/2008-03-14-tap00004-disk-only-customers-going-back-to-tape.html -- problems found: 2
+    404 http://lto.org/pdf/2008_03_12_disk_users_add_tape.pdf
+    403 http://www.ultrium.com/News/paper-form.php?section=2&subsec=paper
+posts/2008-03-17-smr00030-dr-chen-at-the-bmw-performance-center.html -- problems found: 1
+    408 http://domino.watson.ibm.com/comm/pr.nsf/pages/bio.chenj.html
+posts/2008-03-18-san00004-a-wink-and-a-nod.html -- problems found: 2
+    408 http://www.drunkendata.com/?p=1633
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=microsoft_exchange_email_server
+posts/2008-03-21-dpr00007-the-story-of-stuff.html -- problems found: 4
+    403 http://www.storyofstuff.com/
+    406 http://www.sutor.com/newsite/blog-open/?p=2130
+    406 http://www.artmortell.com/
+    408 http://youblog.typepad.com/the_youblog/2008/03/are-you-predict.html
+posts/2008-03-26-smr00030-eventually-everything-is-going-digital.html -- problems found: 1
+    404 http://pewresearch.org/pubs/323/luxury-or-necessity
+posts/2008-03-27-san00004-area-rugs-versus-wall-to-wall-carpeting.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/storage/disk/ds8000/index.html
+    404 http://www-03.ibm.com/systems/storage/tape/ts3500/index.html
+    404 http://www.top500.org/lists/2006/11/top100map
+posts/2008-03-28-fob00005-more-details-about-ibm-clustered-scalable-nas.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=area_rugs_versus_wall_to
+    403 http://www.hpcwire.com/hpc/436979.html
+posts/2008-04-01-fla00017-latency-and-the-speed-of-light.html -- problems found: 5
+    404 http://blog.guykawasaki.com/2008/04/april-fools-sto.html
+    408 http://catchwa.org/2008/03/was-earth-hour-a-joke-again/
+    408 http://tierneylab.blogs.nytimes.com/2008/02/25/how-virtuous-is-ed-begley-jr/
+    404 http://marketplace.publicradio.org/display/web/2008/03/26/mindgames/
+    408 http://thestorageanarchist.typepad.com/weblog/2008/04/0073-5773-c.html
+posts/2008-04-02-dpr00007-the-abuse-of-backup-copies-as-archives.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=lost_in_translation
+posts/2008-04-03-smr00030-energy-efficiency-versus-power-consumption.html -- problems found: 2
+    404 http://www.forbes.com/feeds/ap/2008/04/02/ap4846515.html
+    404 http://caliandjody.com/blog/2008/03/13/the-rowe-launch-kit/
+posts/2008-04-04-fla00017-no-polly-and-i-are-not-related.html -- problems found: 1
+    408 http://www.drunkendata.com/?p=1660
+posts/2008-04-08-tap00004-announcement-recap-for-april-8-2008.html -- problems found: 2
+    404 http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS308-542
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ds8000_enhancements_for_ibm_system
+posts/2008-04-09-smr00029-david-bricker-at-snw-conference-in-orlando.html -- problems found: 1
+    408 http://www.snwusa.com/
+posts/2008-04-10-smr00029-more-videos-from-snw-spring-2008-in-orlando.html -- problems found: 2
+    408 http://www.snwusa.com
+    404 http://www.youtube.com/user/IBMVideos
+posts/2008-04-11-fla00017-xiotechs-low-cost-raid-brick.html -- problems found: 7
+    408 http://www.drunkendata.com/?p=1665
+    408 http://www.drunkendata.com/?p=1667
+    404 http://www.esj.com/storage/article.aspx?EditorialsID=3103
+    408 http://storagemojo.com/2008/04/09/snw-update-xiotechs-ise-and-the-dilithium-solution/
+    479 http://xiotech.com/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=getting_off_the_island_the
+    408 http://thestorageanarchist.typepad.com/weblog/2008/04/0076-oops-ibm-d.html
+posts/2008-04-15-fla00017-did-you-pick-the-goat.html -- problems found: 2
+    408 http://www.flickr.com/photos/arran_edmonstone_photography/4995279544/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=xiotech_s_low_cost_raid
+posts/2008-04-16-tap00004-which-is-greener-real-or-virtual-tape.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hu_yoshida_should_know_better
+    404 http://blogs.hds.com/hu/2008/04/the_greening_of_it_oxymoron_or_journey_to_a_new_reality.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=disk_only_customers_going_back
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=an_apology_to_mark_o
+posts/2008-04-18-fla00017-ibm-acquires-diligent.html -- problems found: 6
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_acquires_xiv
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=supermarkets_and_specialty_shops
+    404 http://storage.blogs.techtarget.com/2008/04/18/data-dedupe-dance-cards-filling-up/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=which_is_greener_real_or
+    408 http://www.drunkendata.com/?p=1689
+    408 http://whitepapers.silicon.com/0,39024759,60301054p,00.htm
+posts/2008-04-21-smr00029-ten-liters-of-gasoline.html -- problems found: 2
+    408 http://www.flickr.com/photos/26449036@N06/4508851990/
+    500 http://www.paulgillin.com/2008/04/american-airlines-quietly-launches.html
+posts/2008-04-22-smr00029-happy-earth-day-2008.html -- problems found: 2
+    404 http://www.youtube.com/groups_videos?name=ibmgreenvids
+    408 http://www.ibm.com/developerworks/blogs/page/Turbo?entry=where_on_the_greenland_ice
+posts/2008-04-23-smr00029-storage-symposium-2008-mexico.html -- problems found: 1
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0000710
+posts/2008-04-24-fla00017-an-apology-to-mark-ogara-and-highmark.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=which_is_greener_real_or
+posts/2008-04-25-dpr00007-2008-storage-symposium-mexico.html -- problems found: 8
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=my_blook_is_now_available
+    404 http://www.caminoreal.com/espanol/index.html
+    404 http://www.flickr.com/photos/26449036@N06/4508087811/
+    404 http://www.flickr.com/photos/26449036@N06/4508747902/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=more_details_about_ibm_clustered
+    404 http://www.flickr.com/photos/26449036@N06/4508744800/
+    404 http://www-03.ibm.com/systems/education/topgun/stortop.html
+    408 http://www.flickr.com/photos/26449036@N06/4508107377/
+posts/2008-04-28-fla00017-teamwork-in-the-data-center.html -- problems found: 2
+    404 http://www.forrester.com/Research/Document/Excerpt/0,7211,44886,00.html
+    404 http://storage.blogs.techtarget.com/2008/04/25/primary-storage-still-means-one-vendor/
+posts/2008-04-30-dpr00007-ibm-introduces-new-cloud-offerings.html -- problems found: 5
+    404 http://www.roughtype.com/archives/2008/04/surveying_the_n.php
+    404 http://www.software2008.com/downloads/mckinsey_software2008_survey.pdf
+    403 http://blocksandfiles.com/article/4972
+    404 http://www.radicati.com/news/market_stats/vol_4-3.asp
+    404 http://www-03.ibm.com/systems/info/x/idataplex/index.html
+posts/2008-05-01-fla00017-management-complexity-factor-for-media-and-entertainment-industry.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=spc_benchmarks_for_disk_system
+posts/2008-05-05-fla00017-simply-dinners-and-open-storage-from-sun.html -- problems found: 4
+    406 http://paleodiet.com/
+    408 http://blogs.sun.com/TA/entry/sun_s_on_to_something
+    408 http://blogs.sun.com/TA/entry/an_easier_storage_platform_opensolaris
+    404 http://storage.blogs.techtarget.com/2008/05/02/sun-going-down-in-storage/
+posts/2008-05-06-smr00029-washington-gets-e-discovery-wakeup-call.html -- problems found: 4
+    404 http://www.byteandswitch.com/document.asp?doc_id=153060&f_src=byteweekly
+    404 http://www.byteandswitch.com/document.asp?doc_id=152011
+    408 
+    403 http://www.citizen.org/litigation/briefs/ERecords/articles.cfm?ID=620
+posts/2008-05-07-fla00017-the-pot-and-the-kettle.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=hds_making_a_great_case
+    408 http://thestorageanarchist.typepad.com/weblog/2008/05/1001-this-is-li.html
+    404 http://www.eweek.com/c/a/Storage/IBMs-Big-Storage-Picture/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=simply_dinners_and_open_storage
+posts/2008-05-08-smr00029-more-exploration-into-vendor-lock-in.html -- problems found: 7
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=simply_dinners_and_open_storage
+    503 http://opensolaris.org/learn.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=getting_off_the_island_the
+    404 http://www-03.ibm.com/ibm/academy/news/news_2006_robotics.shtml
+    404 http://mindstorms.lego.com/eng/Japan_Tokyo_Destination/Default.aspx
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=washington_gets_e_discovery_wakeup
+    404 http://www-03.ibm.com/systems/info/x/idataplex/index.html
+posts/2008-05-09-smr00029-traveling-next-two-weeks.html -- problems found: 1
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0015642
+posts/2008-05-12-smr00029-stc-2008-day-1.html -- problems found: 1
+    404 https://www-304.ibm.com/jct09002c/isv/eserver/advantage/
+posts/2008-05-13-dpr00007-stc-2008-day-2.html -- problems found: 6
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=is_your_data_center_ready
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=my_blook_is_now_available
+    404 http://www.ibm.com/procurement/proweb.nsf/objectdocswebview/file7+-+malik+-+high+voltage+distribution+bus/$file/7+-+malik+-+high+voltage+distribution+bus+rev3.pdf
+    404 http://www.dallasnews.com/sharedcontent/dws/bus/industries/energy/stories/DN-electricity_12bus.ART0.State.Edition1.4608dec.html
+    404 http://www.ibmsystemsmag.com/mainframe/marchapril08/features/19605p1.aspx
+    404 http://www.abctales.com/node/569264
+posts/2008-05-14-tap00004-stc-2008-day-3.html -- problems found: 3
+    404 http://www-1.ibm.com/support/docview.wss?uid=ssg1S1003258
+    404 http://www-1.ibm.com/support/docview.wss?&uid=ssg1S4000504
+    503 http://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1004
+posts/2008-05-15-fla00017-stc-2008-day-4.html -- problems found: 8
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_acquires_xiv
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=entering_a_new_era_in
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=emc_electrocutes_the_elephant
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=spreading_out_the_re_replication
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=more_questions_about_ibm_xiv
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=cleaning_up_the_circus_gold
+    404 http://www-03.ibm.com/systems/x/hardware/idataplex/index.html
+    403 http://www.myri.com/myrinet/overview/
+posts/2008-05-18-smr00029-pulse-2008-day-1.html -- problems found: 2
+    408 http://www.syclo.com/
+    403 http://www.flickr.com/photos/26449036@N06/sets/72157605130482042/
+posts/2008-05-19-san00004-pulse-2008-day-2-main-tent.html -- problems found: 1
+    503 http://www.amazon.com/Its-Not-About-Bike-Journey/dp/0399146113
+posts/2008-05-21-dpr00007-global-archive-solutions-center-launches-in-guadalajara-mexico.html -- problems found: 4
+    404 http://www.flickr.com/photos/26449036@N06/6133864506/
+    408 http://www.flickr.com/photos/26449036@N06/6133318443/
+    404 http://www.flickr.com/photos/26449036@N06/6133864476/
+    408 http://www.spectrum-health.org
+posts/2008-05-27-tap00004-announcement-recap-may-2008.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/storage/tape/ts7530/index.html
+    404 http://www-03.ibm.com/systems/storage/network/index.html?ca=newhome&me=W&P_Creative=S&met=storagehome
+posts/2008-05-29-fla00017-part-of-the-profit-stream.html -- problems found: 1
+    408 http://thestorageanarchist.typepad.com/weblog/2008/05/1004-are-you-wa.html
+posts/2008-05-30-tap00004-eleven-answers-about-deduplication-from-ibm.html -- problems found: 2
+    404 http://www.samizdata.net/blog/glossary_archives/003852.html
+    408 http://www.drunkendata.com/?p=1692
+posts/2008-06-05-smr00029-software-programmers-as-bees.html -- problems found: 1
+    408 http://www.edork.com/Words/Bees/
+posts/2008-06-06-smr00029-summer-jobs-and-the-singularity.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=software_programmers_as_bees
+    404 http://www.roughtype.com/archives/2008/06/singularity_eco.php
+posts/2008-06-11-fob00005-yes-jon-there-is-a-mainframe-that-can-help-replace-1500-x86-servers.html -- problems found: 12
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=eleven_answers_about_deduplication_from
+    408 http://www.drunkendata.com/?p=1755
+    403 http://www.itjungle.com/big/big030408-story01.html
+    404 http://www.redbooks.ibm.com/redpieces/pdfs/sg247515.pdf
+    404 http://www-03.ibm.com/systems/z/hardware/z10ec/
+    404 http://www.oracle.com/corporate/press/2006_oct/openworldsf06-27.html
+    404 http://www-03.ibm.com/support/techdocs/atsmastr.nsf/WebIndex/TD104383
+    404 http://www.vm.ibm.com/devpages/JELLIOTT/pdfs/linuxsig.pdf
+    408 http://blogs.sun.com/jsavit/entry/the_ten_percent_solution
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=seven_words
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=virtualization_carpools_and_marathons
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=summer_reading_for_z10_ec%20I%20think
+posts/2008-06-13-smr00029-seven-tiers-of-storage-at-abn-amro.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=pulse_2008_day_2_breakout
+    404 http://youtube.com/ibmpulse
+posts/2008-06-23-smr00029-seven-words.html -- problems found: 2
+    408 http://blogs.sun.com/jsavit/entry/no_there_isn_t_a
+    408 http://www.drunkendata.com/?p=1759
+posts/2008-06-25-san00003-virtualization-carpools-and-marathons.html -- problems found: 2
+    404 http://www.networkworld.com/news/2008/060908-ibm-roadrunner-supercomputer.html
+    408 
+posts/2008-06-27-smr00029-summer-reading-for-z10-ec-server-virtualization.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=yes_jon_there_is_a
+    408 Virtualization,%20Carpools%20and%20Marathons
+    404 http://www.flickr.com/photos/26449036@N06/6138074018/
+    404 http://www.flickr.com/photos/26449036@N06/6138074170/
+posts/2008-07-02-smr00029-sending-my-baby-off-to-school.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=understanding_lamp_platform_for_web
+    404 http://code.google.com/soc/2008/"
+posts/2008-07-03-smr00029-off-to-japan-and-india.html -- problems found: 2
+    403 http://www.loftcinema.com/node/324
+    408 http://olpcnepal.org/
+posts/2008-07-07-dpr00007-lessons-learned-from-ibm-project-big-green.html -- problems found: 1
+    404 http://greenercomputing.com/column/2008/07/02/lessons-learned-ibms-big-green-initiative
+posts/2008-07-09-smr00029-alan-lepofsky-joining-socialtext.html -- problems found: 1
+    408 http://www.socialtext.com/products/features/Socialtext-Wiki-Lotus-Connections.php
+posts/2008-07-10-fla00017-goldilocks-and-the-three-bears.html -- problems found: 8
+    408 http://thestorageanarchist.typepad.com/weblog/2008/07/1014-the-laurel.html
+    404 http://blogs.hds.com/hu/2008/06/when_is_thin_provisioning_too_thin.html
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=svc_4_3_0_thin
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=svc_4_3_0_sev
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=morcombe_and_wise
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=does_size_really_matter_for
+    404 http://www.vmware.com/files/pdf/symmetrix_virtual_provisioning_wp.pdf
+    404 http://www.storageperformance.org/home
+posts/2008-07-11-san00003-from-tokyo-to-mumbai.html -- problems found: 3
+    406 http://www.sutor.com/newsite/blog-open/?p=2396
+    404 http://blogs.wsj.com/biztech/2008/07/08/avatars-escape-second-life-leave-clothes-behind/
+    406 http://www.musion.co.uk/Cisco_TelePresence.html
+posts/2008-07-14-smr00029-taking-a-tuk-tuk-to-mcdonalds.html -- problems found: 1
+    404 http://news.yahoo.com/s/nm/20080711/lf_nm_life/olympics_dogmeat_dc_1
+posts/2008-07-16-smr00028-rock-the-vote-2008-best-product-awards.html -- problems found: 1
+    404 http://www.networkproductsguide.com/votingbooth/index.php
+posts/2008-07-17-smr00028-brain-rules-for-presenters.html -- problems found: 1
+    408 http://www.chakpak.com/movie/jaane-tu-ya-jaane-na/18643
+posts/2008-07-18-dpr00007-the-murals-in-restaurants.html -- problems found: 5
+    408 http://www.flickr.com/photos/26449036@N06/10358157084/
+    404 http://blogs.netapp.com/exposed/2008/07/responsibility.html
+    404 http://blogs.netapp.com/extensible_netapp/2008/07/netapp-snaplock.html
+    404 http://www-03.ibm.com/systems/storage/disk/dr/
+    404 http://www-03.ibm.com/grid/medical_archive_solution.shtml
+posts/2008-08-11-smr00028-charging-per-watt-not-per-square-foot.html -- problems found: 3
+    408 http://storagemojo.com/2008/08/07/power-play-power-work/
+    404 http://www.ibm.com/datacenter
+    404 http://www.energetics.com/datacenters08/pdfs/Belady_Microsoft.pdf
+posts/2008-08-19-smr00028-storage-symposium-2008-in-montpelier-france.html -- problems found: 4
+    404 https://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0015348
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss/us/en?pageType=page&c=a0000710
+    404 https://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0015348
+    404 https://www-304.ibm.com/jct03001c/services/learning/ites.wss/zz/en?pageType=page&c=a0002173
+posts/2008-08-27-tap00004-big-iron-anything-but-rusty-at-ibm.html -- problems found: 2
+    403 http://www.investors.com/editorial/IBDArticles.asp?artsec=17&artnum=2&issue=20080812&rss=1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=summer_reading_for_z10_ec
+posts/2008-08-28-smr00028-ibm-breaks-1-million-iops-barrier-with-solid-state-disk.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/storage/disk/ds8000/index.html
+    404 http://www.networkworld.com/news/2008/082808-ibm-flash-memory-million-iops.html
+    404 http://news.cnet.com/8301-13924_3-10028216-64.html
+posts/2008-08-29-dpr00007-another-blogoversary-already.html -- problems found: 5
+    404 http://www.atn.com.au/info/holidays.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=50_years_of_disk_systems
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ilm_for_my_ipod
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=in_search_of_matching_information
+    404 http://www.tucsonsbirthday.org/
+posts/2008-09-04-smr00028-ibm-information-on-demand-2008-conference.html -- problems found: 2
+    404 http://www-01.ibm.com/support/docview.wss?rs=203&uid=swg27012122
+    408 https://www-950.ibm.com/events/IOD/IOD2008/
+posts/2008-09-08-fla00017-ibm-information-infrastructure-launches-today.html -- problems found: 19
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=is_your_data_center_ready
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ds8000_enhancements_for_ibm_system
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=pulse_2008_day_1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=pulse_2008_day_2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=pulse_2008_day_2_breakout
+    404 http://www-03.ibm.com/systems/virtualization/news/view/green20.html
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=svc_4_3_0_thin
+    404 http://www-03.ibm.com/systems/services/briefingcenter/tbc/index.html
+    404 http://storage.blogs.techtarget.com/2008/08/29/ibms-got-some-splainin-to-do-in-storage/?track=NL-58&ad=659582&asrc=EM_USC_4392932&uid=1706723
+    404 http://www.ibm.com/information_infrastructure
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=storage_symposium_2008_in_montpelier
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=more_details_about_information_availability
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=more_details_about_information_security
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=more_details_about_information_retention
+    404 http://www-03.ibm.com/systems/storage/disk/xiv/index.html
+    404 http://www-03.ibm.com/systems/storage/tape/ts7650g/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/ds5000/index.html
+    404 http://www-03.ibm.com/systems/storage/network/n6000/appliance/index.html
+    408 http://www.xivstorage.com/blog/
+posts/2008-09-09-smr00028-more-details-about-information-availability.html -- problems found: 3
+    404 http://www.emerson.com/smallbusiness
+    408 http://esgblogs.typepad.com/markpeters_blog/2008/09/backing-up-your.html
+    404 http://www.readwriteweb.com/archives/google_hits_one_trillion_pages.php
+posts/2008-09-10-tap00004-more-details-about-information-security.html -- problems found: 1
+    408 http://fdesecurityleaders.com
+posts/2008-09-11-dpr00007-more-details-about-information-retention.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_information_infrastructure_launches_today
+    408 http://storagemojo.com/2008/09/09/our-changing-file-workloads/
+    408 http://www.ssrc.ucsc.edu/Papers/leung-usenix08.pdf
+    404 http://www-03.ibm.com/systems/storage/solutions/ilm/index.html
+posts/2008-09-12-dpr00007-more-details-about-information-compliance.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_information_infrastructure_launches_today
+    403 http://www.webmd.com/healthy-aging/news/20030422/hipaa-rules-explained?page=2
+    404 http://csrc.nist.gov/publications/nistpubs/800-66/SP800-66.pdf
+    404 http://www-03.ibm.com/systems/storage/disk/dr/index.html
+    404 http://www.ey.com/global/content.nsf/US/Media_-_Release_-_06-20-07DC
+posts/2008-09-15-fla00016-the-truth-about-xiv.html -- problems found: 4
+    408 http://esgblogs.typepad.com/steves_it_rants/2008/08/adaptec-buys-ar.html
+    404 http://blogs.netapp.com/exposed/2008/09/has-storage-swi.html
+    404 http://www.slashfilm.com/2008/06/04/is-nuke-the-fridge-the-new-jump-the-shark/
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=svc_xiv_and_ds5000
+posts/2008-09-16-tap00004-ts3500-deep-archive-high-density-frames.html -- problems found: 1
+    404 http://www-03.ibm.com/systems/storage/tape/ts3500/hdframes.html
+posts/2008-09-17-tap00004-ts7650g-protectier-deduplication-virtual-tape-gateway.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_acquires_diligent
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=eleven_answers_about_deduplication_from
+posts/2008-09-18-tap00004-ibm-ts2900-tape-autoloader.html -- problems found: 1
+    404 http://www-03.ibm.com/systems/storage/tape/ts2900/
+posts/2008-09-19-fla00016-talking-about-solutions-not-products.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=supermarkets_and_specialty_shops
+    401 http://architectures.danlockton.co.uk/2008/09/18/london-design-festival-greengaged/
+posts/2008-09-22-fla00016-when-factual-observations-mislead-and-misrepresent.html -- problems found: 7
+    404 http://www-03.ibm.com/systems/storage/disk/xiv/index.html
+    408 http://thestorageanarchist.typepad.com/weblog/2008/08/1020-how-much-d.html
+    408 http://thestorageanarchist.typepad.com/weblog/2008/08/1019-halfway-ar.html
+    408 http://www.itbusinessedge.com/blogs/dcc/?p=453
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=deceptively_delicious
+    408 http://www.xivstorage.com/blog/2008/09/storage-industry-we-have-a-problem/
+    408 http://www.xivstorage.com/blog/2008/09/throttling-up-performance-more-drives-or-faster-drives/
+posts/2008-09-23-tap00004-sofs-at-kantana-animation-studios.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=more_details_about_ibm_clustered
+    404 http://www-03.ibm.com/systems/storage/disk/ds4000/ds4800/index.html
+    404 http://www-03.ibm.com/systems/storage/tape/ts3310/index.html
+posts/2008-09-24-smr00028-days-of-caring-2008.html -- problems found: 2
+    400 http://www.unitedwaytucson.org/pages/doc.php
+    503 http://communityfoodbank.com/
+posts/2008-09-25-san00003-ibm-helps-healthcare-firms-large-and-small.html -- problems found: 5
+    403 http://www.northwestradiology.com/
+    408 http://www.gridcomputingplanet.com/article.php/3649986
+    404 http://www-03.ibm.com/linux/grid/medical_archive_solution.shtml
+    408 http://www.gridatasia.net/images/seoul/pdf/ibm-03.pdf
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=five_in_five_for_2008
+posts/2008-10-01-san00003-new-bladecenter-chassis-with-storage-inside.html -- problems found: 4
+    404 http://www-03.ibm.com/systems/info/bladecenter/s/celebration.html
+    404 http://www-03.ibm.com/systems/data/flash/systems/info/bladecenter/s/popup.html
+    404 http://www-03.ibm.com/systems/x/resources/videos/systems_x_resources_videos_BladeCenter-Finalv2_Broadband.html
+    404 http://www-03.ibm.com/systems/i/advantages/
+posts/2008-10-13-smr00028-a-silver-lining-for-the-financial-crisis.html -- problems found: 1
+    403 http://www.infoworld.com/archives/t.jsp?N=s&V=113008&source=fssr
+posts/2008-10-14-san00003-october-2008-san-and-disk-announcements.html -- problems found: 1
+    408 http://www.snwusa.com/
+posts/2008-10-15-smr00028-pink-it-and-shrink-it.html -- problems found: 4
+    404 http://www.lakotacorp.com/Sarahcuda.aspx
+    404 http://www-03.ibm.com/systems/storage/news/press/20081015.html
+    404 http://www-03.ibm.com/systems/storage/disk/ds3000/ds3400/index.html
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=new_svc_entry_edition_and
+posts/2008-10-16-smr00028-four-steps-to-enhance-competitiveness.html -- problems found: 2
+    404 http://www-304.ibm.com/jct03004c/businesscenter/cpe/html0/33409.html
+    404 http://www-304.ibm.com/businesscenter/cpe/html0/151816.pdf
+posts/2008-10-20-smr00028-first-in-its-class-the-ds5300.html -- problems found: 1
+    403 http://www.theregister.co.uk/2008/10/20/ibm_esg_ds5300_validation/
+posts/2008-10-21-tap00004-mainframe-disk-and-tape-announcements.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ds8000_enhancements_for_ibm_system
+    404 http://www.mercurynews.com/breakingnews/ci_10737315
+posts/2008-10-22-fla00016-hp-and-oracle-upset-emc.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_combo_trounces_hp_and
+posts/2008-10-24-smr00028-dont-hide-from-the-truth.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/migratetoibm/whyibm/video/below_the_surface_pop.html
+    404 http://www-03.ibm.com/systems/migratetoibm/whyibm/video/below_the_surface_pop.html
+    404 http://www-03.ibm.com/systems/migratetoibm/uglyit_nonflash.html
+posts/2008-10-30-fla00016-the-two-faces-of-emc.html -- problems found: 5
+    408 http://thestorageanarchist.typepad.com/weblog/2008/10/1028-benchmarketing-badly.html
+    404 http://www.enterprisestrategygroup.com/ViewSecureDocument.asp?ReportID=1105&ReportType=Free&ReportField=Attachment1
+    404 http://www.storageperformance.org/home
+    408 http://chucksblog.emc.com/chucks_blog/2008/10/get-yer-free-xiv.html
+    404 http://www.duarte.com/halloween/
+posts/2008-10-31-tap00003-exabyte-data-center-for-archive.html -- problems found: 3
+    408 http://storagemojo.com/2008/10/12/building-a-18-exabyte-data-center/
+    404 http://ca.news.yahoo.com/s/capress/081030/business/sun_microsystems
+    404 http://www-03.ibm.com/systems/storage/tape/ts3500/hdframes.html
+posts/2008-11-21-smr00027-data-center-conference-in-las-vegas.html -- problems found: 2
+    408 http://thestorageanarchist.typepad.com/weblog/2008/11/1029-atmos-with-and-without-the-sphere.html
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-11-24-fla00016-thankful-for-atmos.html -- problems found: 4
+    404 http://www-03.ibm.com/systems/storage/software/gam/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/xiv/
+    404 http://www-03.ibm.com/systems/storage/disk/dr/index.html
+    408 http://www.storagerap.com/microraid.html
+posts/2008-11-25-fla00016-thankful-for-a-smaller-flatter-smarter-planet.html -- problems found: 4
+    404 http://www.ibmeye.com/leave-detroit-alone-it-worked-for-ibm/
+    404 http://www.it-director.com/blogs/Fern_Halper/2008/11/ibm_and_the_smarter_planet.html
+    403 http://www.thomaslfriedman.com/bookshelf/the-world-is-flat
+    406 http://www.sutor.com/newsite/blog-open/?p=2763
+posts/2008-11-26-smr00027-thanks-for-olpc-and-g1g1-program.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=innovation_that_matters_xo_laptop
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage/20071230
+    503 http://www.amazon.com/gp/browse.html?ie=UTF8&marketplaceID=ATVPDKIKX0DER&me=A34NLXJLC88VVS
+posts/2008-12-02-dpr00007-day2-data-center-conference-keynote-sessions.html -- problems found: 2
+    404 http://www.gartner.com/it/page.jsp?id=627607
+    404 http://www.thegreengrid.org/gg_content/TGG_Data_Center_Power_Efficiency_Metrics_PUE_and_DCiE.pdf
+posts/2008-12-02-fla00016-day2-the-solution-showcase-at-ibm-booth-20.html -- problems found: 1
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-12-02-smr00027-day-1-red-badge-of-courage.html -- problems found: 1
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-12-04-dpr00007-day3-deploying-disruptive-storage-architectures.html -- problems found: 2
+    404 http://www.gartner.com/it/page.jsp?id=627607
+    404 http://www.redbooks.ibm.com/abstracts/sg245279.html
+posts/2008-12-04-dpr00007-day4-surviving-hurricane-katrina.html -- problems found: 1
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-12-04-smr00027-day3-its-partly-cloudy-in-las-vegas.html -- problems found: 1
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-12-04-smr00027-day3-more-keynote-sessions-at-data-center-conference.html -- problems found: 1
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-12-04-smr00027-day4-the-future-of-the-data-center.html -- problems found: 4
+    404 http://www.gartner.com/it/page.jsp?id=627607
+    404 http://searchcio-midmarket.techtarget.com/news/article/0,289142,sid183_gci1305881,00.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=pulse_2008_day_2
+    404 http://www-03.ibm.com/systems/greendc/
+posts/2008-12-04-tap00003-day4-solution-showcase-and-hospitality-suites.html -- problems found: 12
+    404 http://www.gartner.com/it/page.jsp?id=627607
+    404 http://www.flickr.com/photos/26449036@N06/3087918160/
+    404 http://www.flickr.com/photos/26449036@N06/3087928238/
+    404 http://www.flickr.com/photos/26449036@N06/3087102985/
+    403 http://www.gpj.com/html/index.asp?type=screen
+    404 http://www.flickr.com/photos/26449036@N06/3087163129/
+    408 http://www.flickr.com/photos/26449036@N06/3088021166/
+    404 http://www.flickr.com/photos/26449036@N06/3087420573/
+    408 http://www.flickr.com/photos/26449036@N06/3087447537/
+    408 http://www.flickr.com/photos/26449036@N06/3087447553/
+    404 http://www.flickr.com/photos/26449036@N06/3087447547/
+    404 http://www.flickr.com/photos/26449036@N06/3088113455/
+posts/2008-12-05-san00003-day5-the-last-few-sessions-for-data-center-conference-2008.html -- problems found: 1
+    404 http://www.gartner.com/it/page.jsp?id=627607
+posts/2008-12-11-fla00016-is-storage-the-next-confusopoly.html -- problems found: 6
+    403 http://dilbert.com/blog/entry/confusopolies/
+    408 http://chucksblog.emc.com/chucks_blog/2008/12/dell-emc-and-the-new-nx4.html
+    404 http://blogs.netapp.com/extensible_netapp/2008/12/mad-blog-chuck.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=supermarkets_and_specialty_shops
+    404 http://www.enterprisestorageforum.com/ipstorage/features/article.php/3790381
+    404 http://www.gartner.com/it/page.jsp?id=707508
+posts/2009-01-07-smr00027-the-new-year-in-six-words.html -- problems found: 2
+    404 http://www.forbes.com/technology/2009/01/06/ibm-obama-infrastructure-tech-enter-cx-ag_0106ibm.html
+    406 http://www.migrationdrc.org/publications/working_papers/WP-T9.pdf
+posts/2009-01-12-san00003-new-years-resolutions-for-2009.html -- problems found: 2
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=new_years_resolutions_for_2008
+    404 http://www.umm.edu/features/prepare.htm
+posts/2009-01-14-fla00016-dear-tony-letters-for-2009.html -- problems found: 10
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=new_years_resolutions_for_2009
+    408 http://www.tucsonfun.com
+    408 http://www.tucsonlaughterclub.org
+    403 http://www.loftcinema.com/
+    408 http://chucksblog.emc.com/chucks_blog/2009/01/timely-reading.html
+    404 http://www.thenation.com/doc/20070625/aronson
+    404 http://online.wsj.com/article/SB123146363567166677.html
+    404 http://blogs.forrester.com/groundswell/2008/12/people-dont-tru.html
+    408 http://www.ibm.com/developerworks/blogs/page/woolf
+    408 http://www.ibm.com/developerworks/blogs/page/Turbo
+posts/2009-01-15-dpr00007-congratulations-ken-on-your-qcc-milestone.html -- problems found: 1
+    408 http://www.azqcc.com/
+posts/2009-01-19-smr00027-a-new-blog-about-smarter-planet.html -- problems found: 4
+    408 http://www.asmarterplanet.com/blog/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_new_year_in_six
+    408 http://www.asmarterplanet.com/blog/2009/01/investing-in-smarter-infrastructure-will-create-more-than-949000-in-2009.html
+    408 http://www.asmarterplanet.com/blog/2009/01/more-on-the-proposed-stimulus-package-from-ibms-ceo.html
+posts/2009-01-22-smr00027-instant-messaging-in-3d-with-ibm-sametime.html -- problems found: 1
+    404 http://www.youtube.com/v/SfqGwKFStuw
+posts/2009-01-28-tap00003-foundations-and-flavorings-for-storage.html -- problems found: 13
+    408 http://www.flickr.com/photos/26449036@N06/4421264970/
+    408 http://www.metrorestaurants.com/restaurants/ms-restaurant.htm
+    404 http://www-03.ibm.com/systems/storage/disk/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/dcs/dcs9900/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/xiv/index.html
+    404 http://www-03.ibm.com/systems/storage/tape/index.html
+    404 http://www-03.ibm.com/systems/storage/software/virtualization/svc/index.html
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization
+    404 http://www-03.ibm.com/systems/storage/network/index.html
+    404 http://www-03.ibm.com/systems/storage/solutions/ilm/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/dr/index.html
+    404 http://www-03.ibm.com/linux/grid/medical_archive_solution.shtml
+    404 http://www-03.ibm.com/systems/storage/software/gam/index.html
+posts/2009-01-29-dpr00007-ibm-meets-with-president-obama.html -- problems found: 3
+    403 http://www.criticalmention.com/vg/intranet/ibm/2009-01-28_cnn_1128_palmisano.wmv
+    403 http://www.criticalmention.com/vg/intranet/ibm/2009-01-28_cnn_1128_palmisano.wmv
+    408 http://recovery.gov/
+posts/2009-02-06-smr00027-storage-on-a-postage-stamp.html -- problems found: 3
+    408 http://www.asmarterplanet.com/blog/2009/01/bringing-the-new-intelligence-down-to-earth-intro-to-semantic-web-internetofthings.html
+    404 http://www.youtube.com/v/OGg8A2zfWKg
+    404 http://www.theonion.com/content/video/apple_introduces_revolutionary
+posts/2009-02-09-smr00027-ibm-launches-dynamic-infrastructure-initiative.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=is_your_data_center_ready
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=pulse_2008_day_2
+    404 http://www-03.ibm.com/systems/dynamicinfrastructure/
+posts/2009-02-10-fla00016-dynamic-infrastructure-disk-announcements-1q09.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/storage/disk/ds8000/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/xiv/index.html
+    404 http://www-03.ibm.com/systems/storage/network/n6000/appliance/index.html
+posts/2009-02-11-dpr00007-dynamic-infrastructure-1q09-tape-and-software-announcements.html -- problems found: 4
+    404 http://www-03.ibm.com/systems/storage/tape/ts7650g/index.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=dynamic_infrastructure_disk_announcements_1q09
+    403 http://www.tpc.com/
+    404 http://www-03.ibm.com/systems/storage/software/sspc/
+posts/2009-02-12-fla00016-frankenstein-the-icon-of-fud.html -- problems found: 12
+    408 http://chucksblog.emc.com/chucks_blog/2009/02/whither-frankenstorage.html
+    408 http://thestorageanarchist.typepad.com/weblog/2008/09/1022-are-you-re.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=foundations_and_flavorings_for_storage
+    404 http://www.netapp.com/us/company/news/news-rel-20090203-flash-ssd.html
+    404 http://blogs.netapp.com/shadeofblue/2009/02/much-of-the-mai.html
+    404 http://blogs.netapp.com/extensible_netapp/2009/02/mad-blog-chuck.html
+    404 http://blogs.hds.com/tony/?p=17
+    408 http://www.ibm.com/developerworks/blogs/page/storagevirtualization?entry=how_quickly_we_forget
+    408 http://blogs.storagemonkeys.com/index.php/2009/02/chuck-hollis-calls-the-kettle-black/
+    408 http://blogs.rupturedmonkey.com/?p=201
+    403 http://www.darwinday.org/
+    404 http://www-03.ibm.com/systems/dynamicinfrastructure/
+posts/2009-02-16-smr00027-vegas-in-blue-and-green.html -- problems found: 1
+    404 http://event.on24.com/event/13/25/04/rt/1/register.html?&eventid=132504&sessionid=1&key=517EEE0A7D2C07ED26ED956F8D1EC0E9&%3Bpartnerref=social&sourcepage=register
+posts/2009-02-17-fob00005-enhanced-ds3200-for-boot-and-data-storage.html -- problems found: 4
+    404 http://www-03.ibm.com/systems/resources/systems_storage_disk_ds3000_pdf_interop.pdf
+    404 http://www-03.ibm.com/systems/x/hardware/rack/x3650/index.html
+    404 http://www-03.ibm.com/systems/bladecenter/hardware/chassis/bladeh/index.html
+    408 http://www-304.ibm.com/shop/americas/webapp/wcs/stores/servlet/default/ProductDisplay?catalogId=-840&storeId=1&langId=-1&dualCurrId=73&categoryId=4611686018425093834&productId=4611686018425291708
+posts/2009-02-18-tap00003-jon-peake-awarded-project-bulldog-jacket.html -- problems found: 1
+    408 https://www.thedacs.com/techs/abstract/83790
+posts/2009-02-20-fla00016-dynamic-infrastructure-and-pulse-2009-videos.html -- problems found: 1
+    404 http://www.youtube.com/ibmpulse
+posts/2009-02-25-smr00026-the-kingpin-of-flin-flon.html -- problems found: 1
+    404 http://www.cityofflinflon.com/index-frameset.html
+posts/2009-03-03-tap00003-millions-billions-and-trillions-for-healthcare.html -- problems found: 2
+    404 http://www-03.ibm.com/linux/grid/medical_archive_solution.shtml
+    408 http://www.asmarterplanet.com/blog/2009/02/the-case-for-health-reform-new-video-and-podcast.html
+posts/2009-03-05-smr00026-late-for-dinner-really.html -- problems found: 1
+    408 http://blogs.rupturedmonkey.com/?p=238
+posts/2009-03-10-fla00016-ibm-announces-another-ssd-disk-offering.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=hybrid_solid_state_and_the
+    408 http://thestorageanarchist.typepad.com/weblog/2009/03/1044-ibms-amazing-splash-dance.html
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=business_continuity_for_new_bladecenter
+posts/2009-03-19-smr00026-ibm-presents-april-2009-at-upcoming-snw-in-orlando.html -- problems found: 1
+    408 http://www.snwusa.com/
+posts/2009-03-20-smr00026-water-water-everywhere.html -- problems found: 1
+    404 http://www.who.int/features/factfiles/water/water_facts/en/index.html
+posts/2009-03-26-dpr00007-pulse-2009-ibm-disk-with-tivoli-fastback.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/storage/disk/index.html
+    404 http://www-03.ibm.com/systems/storage/disk/index.html
+posts/2009-03-30-fla00016-snw-2009-best-practices-award-finalists.html -- problems found: 1
+    408 http://www.snwusa.com/
+posts/2009-04-03-tap00003-welcome-carlos-pratt-to-the-storage-blogosphere.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/GreenSpeed
+posts/2009-04-07-fla00016-announcements-during-snw-2009-conference.html -- problems found: 1
+    408 http://www.snwusa.com
+posts/2009-04-14-smr00026-2009-ibm-conferences-to-consider.html -- problems found: 3
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss/us/en?pageType=page&c=N799690U22513C84
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0000710
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss?pageType=page&c=a0000711
+posts/2009-04-16-fla00016-v-max-emc-follows-again.html -- problems found: 5
+    408 http://chucksblog.emc.com/chucks_blog/2009/04/symmetrix-vmax-watching-the-reaction.html
+    404 http://blogs.netapp.com/exposed/2009/04/overtake-this-symmetrix-v-max-frames-are-so-90s.html
+    404 http://blogs.hds.com/hu/2009/04/dont-confuse-symmetrix-v-max-with-storage-virtualization.html
+    404 http://blogs.hds.com/claus/2009/04/emc-catching-up-with-the-past.html
+    404 http://www.storageperformance.org/home
+posts/2009-04-21-smr00026-power-to-the-costa-rican-people.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=green_water_for_green_energy
+posts/2009-04-22-dpr00006-happy-earth-day-2009.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=green_water_for_green_energy
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=power_to_the_costa_rican
+    404 http://www.mideplan.go.cr/pnd/actores/sector_publico/ict/index.html
+posts/2009-04-23-smr00026-green-incentives-versus-human-behaviour.html -- problems found: 1
+    404 http://www.timeforkids.com/TFK/teachers/wr/article/0,27972,443302,00.html
+posts/2009-04-24-dpr00006-earth-day-2009-final-thoughts.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=green_water_for_green_energy
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=power_to_the_costa_rican
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=happy_earth_day_2009
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=green_incentives_versus_human_behaviour
+    408 http://trueslant.com/ryansager/2009/04/22/the-neuroscience-of-earth-day/
+posts/2009-04-27-smr00026-local-example-of-alternative-sourcing.html -- problems found: 1
+    408 http://www.tucsonfun.com
+posts/2009-04-28-san00003-april-2009-announcements-for-storage-and-networking.html -- problems found: 9
+    404 http://www-03.ibm.com/systems/dynamicinfrastructure/
+    404 http://www-03.ibm.com/systems/networking/hardware/ethernet/b-type/c-series/
+    404 http://www-03.ibm.com/systems/networking/hardware/ethernet/b-type/g-series/
+    404 http://www-03.ibm.com/systems/networking/hardware/ethernet/b-type/m-series/
+    404 http://www-03.ibm.com/systems/networking/hardware/ethernet/b-type/s-series/
+    404 http://www-03.ibm.com/systems/storage/disk/ds5000/index.html
+    404 http://www-03.ibm.com/systems/storage/solutions/business_continuity/backup_restore/dataprotection/
+    404 http://www-03.ibm.com/systems/storage/software/center/index.html
+    404 http://www-03.ibm.com/systems/resources/systems_storage_0428.pdf
+posts/2009-05-07-fla00016-solid-state-disk-on-ds8000-disk-systems.html -- problems found: 8
+    408 http://thestorageanarchist.typepad.com/weblog/2009/05/2001-ibms-amazing-splash-dance-part-deux.html
+    408 http://thestorageanarchist.typepad.com/weblog/2009/03/1044-ibms-amazing-splash-dance.html
+    408 http://thestorageanarchist.typepad.com/weblog/2009/02/1039-dont-miss-the-amazing-vendor-flash-dance.html
+    404 http://www.ibm.com/blogs/zz/en/guidelines.html
+    404 http://www.redbooks.ibm.com/redpieces/pdfs/redp4522.pdf
+    404 http://www-03.ibm.com/support/techdocs/atsmastr.nsf/5cb5ed706d254a8186256c71006d2e0a/384f1fd0fe01593886257574008092c0/$FILE/System_z_SAP_SSD.pdf
+    403 http://pund-it.com/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=dynamic_infrastructure_disk_announcements_1q09
+posts/2009-05-11-fla00015-spare-capacity-for-life-extension.html -- problems found: 3
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=solid_state_disk_on_ds8000
+    404 http://contemplatingit.com/blogs/blog1.php/2009/04/26/emc-anti-social-media-gang
+    408 http://thestorageanarchist.typepad.com/weblog/2009/05/2002-meh-ibm-really-really-doesnt-get-flash.html
+posts/2009-05-12-smr00026-early-detection-and-early-response.html -- problems found: 1
+    403 http://www.wheresgeorge.com/
+posts/2009-05-13-fla00015-subtleties-between-marketing-versus-engineering.html -- problems found: 3
+    408 http://thestorageanarchist.typepad.com/weblog/2009/05/2002-meh-ibm-really-really-doesnt-get-flash.html
+    408 http://thestorageanarchist.typepad.com/weblog/2009/05/2001-ibms-amazing-splash-dance-part-deux.html#more
+    408 http://thestorageanarchist.typepad.com/weblog/2009/05/2002-meh-ibm-really-really-doesnt-get-flash.html
+posts/2009-05-15-fla00015-seattle-dynamic-infrastructure-customer-event.html -- problems found: 6
+    404 http://www-03.ibm.com/systems/dynamicinfrastructure/
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+    404 http://ste-michelle.com/winery
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=ibm_information_infrastructure_launches_today
+    404 http://www-03.ibm.com/systems/storage/tape/ts7650a/index.html
+    404 http://www-03.ibm.com/systems/storage/network/
+posts/2009-05-19-smr00026-forrester-it-forum-2009-welcome-reception-day1.html -- problems found: 1
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+posts/2009-05-20-smr00026-forrester-evening-reception-sponsored-by-ibm-day1.html -- problems found: 1
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+posts/2009-05-21-smr00026-forrester-keynote-sessions-day2.html -- problems found: 1
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+posts/2009-05-22-dpr00006-forrester-market-forces-for-economic-recovery.html -- problems found: 2
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+    408 http://www.smetoolkit.org/
+posts/2009-05-22-dpr00006-forrester-sessions-on-cloud-computing.html -- problems found: 2
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+    404 http://www-03.ibm.com/systems/deepcomputing/cod/offerings.html
+posts/2009-05-31-smr00026-forrester-keynote-sessions-day3.html -- problems found: 2
+    404 http://www.forrester.com/events/eventdetail?eventID=2374
+    408 http://www.cfil.com/
+posts/2009-06-04-smr00026-moving-to-mydeveloperworks.html -- problems found: 1
+    408 https://www.ibm.com/developerworks/mydeveloperworks/blogs/storagevirtualization/entry/my_blog_url_and_rss_feed_have_changed
+posts/2009-06-11-smr00026-blook-now-available-on-amazon.html -- problems found: 2
+    408 
+    503 http://www.amazon.com/Inside-System-Storage-I-Hardcover/dp/B002AD73Q4/ref=sr_1_2?ie=UTF8&s=books&qid=1244747884&sr=1-2
+posts/2009-06-12-fla00015-no-bad-news-over-email.html -- problems found: 1
+    403 http://www.huffingtonpost.com/2009/06/10/holocaust-museum-shooting_n_213831.html
+posts/2009-06-15-dpr00006-helping-young-students-part-1.html -- problems found: 6
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=new_years_resolutions_for_2008
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage/20071230
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=understanding_lamp_platform_for_web
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=moving_to_nepal
+    408 http://moodle.org/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=sending_my_baby_off_to
+posts/2009-06-16-smr00025-helping-young-students-part-2.html -- problems found: 5
+    404 http://mindstorms.lego.com/eng/Egypt_dest/Default.aspx
+    404 http://www.usfirst.org/default.aspx
+    404 http://www.usfirst.org/community/fll/
+    404 http://www.usfirst.org/what/FTC/default.aspx?id=380
+    404 http://www.robotc.net/content/lego_over/lego_over.html
+posts/2009-06-17-smr00025-dynamic-infrastructure-virtual-forum-2009.html -- problems found: 5
+    404 http://bit.ly/XyVqJ
+    408 <a href=
+    408 <a href=
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=the_art_of_evangelism
+    404 http://www.facebook.com/pages/IBM-Dynamic-Infrastructure/42197664985?ref=ts
+posts/2009-06-18-smr00025-liz-goes-to-tanzania.html -- problems found: 4
+    408 https://www-146.ibm.com/corporateservicecorps/
+    408 http://moodle.org/
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=helping_young_students_part_1
+    404 http://www.pmi.org/careerdevelopment/pages/certification-and-the-job-market.aspx
+posts/2009-06-19-fla00015-we-all-have-day-jobs.html -- problems found: 3
+    408 http://www.drunkendata.com/?p=2419
+    404 http://blogs.hds.com/claus/2009/04/smackdown-on-barry-burke-emc.html
+    408 http://thestorageanarchist.typepad.com/weblog/2009/06/2012-how-to-mind-the-future-of-a-mission-critical-world.html
+posts/2009-06-22-smr00025-what-happened-to-barry-whyte.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=moving_to_mydeveloperworks
+posts/2009-06-25-smr00025-ibm.html -- problems found: 1
+    404 http://blogs.netapp.com/shadeofblue/2009/06/30-years-ago-cloud-deja-vu.html
+posts/2009-07-13-smr00025-2009-ibm-system-storage-and-storage-networking-symposium.html -- problems found: 4
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=2009_ibm_conferences_to_consider
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss/us/en?pageType=page&c=a0000710&ca=conf2008&m=d&met=exli&re=dmail1
+    404 http://www-03.ibm.com/systems/services/briefingcenter/tbc/location.html
+    404 http://www-304.ibm.com/jct03001c/services/learning/ites.wss/us/en?pageType=page&c=U077421Y56094K14
+posts/2009-07-14-fla00015-july-2009-announcements-for-ds8000-xiv-and-protectier.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/storage/news/center/xiv/
+    404 http://www-03.ibm.com/systems/storage/news/press/20090714.html
+posts/2009-07-15-fla00015-thin-provisioning-beer-and-white-bread.html -- problems found: 3
+    408 http://thestorageanarchist.typepad.com/weblog/2009/07/2016-ds8000-finally-gets-thin-provisioning-for-a-fat-price.html
+    404 http://blogs.hds.com/hu/2009/04/switch-it-on.html
+    408 http://yourtotalhealth.ivillage.com/gluten-intolerance.html
+posts/2009-07-27-fla00015-storage-symposium-2009-day1-keynote-sessions.html -- problems found: 1
+    404 http://www-03.ibm.com/systems/x/hardware/idataplex/
+posts/2009-07-29-san00003-storage-symposium-2009-day2-breakout-sessions.html -- problems found: 7
+    404 http://www-03.ibm.com/systems/storage/disk/dr/
+    404 http://www-03.ibm.com/linux/grid/medical_archive_solution.shtml
+    404 http://www.ibm.com/grid/
+    404 http://www-03.ibm.com/systems/networking/index.html
+    404 http://www-03.ibm.com/systems/storage/software/center/
+    404 http://www-03.ibm.com/systems/services/briefingcenter/tbc/location.html
+    404 http://www-03.ibm.com/systems/information_infrastructure/
+posts/2009-07-30-san00003-storage-symposium-2009-day3-extraordinary-networks.html -- problems found: 1
+    404 http://en.wikipedia.org/wiki/Field-programmable_gate_array"
+posts/2009-07-31-fla00015-storage-symposium-2009-day5-meet-the-experts.html -- problems found: 2
+    404 http://www-03.ibm.com/systems/z/advantages/ziip/index.html
+    404 http://www-03.ibm.com/systems/z/hardware/connectivity/products/fe8.html
+posts/2009-08-01-tap00003-storage-symposium-2009-day4-linux-directions.html -- problems found: 4
+    404 http://www-03.ibm.com/industries/travel/us/detail/news/B957538D28504L14.html
+    404 http://www2.computer.org/portal/web/csdl/doi/10.1109/MC.2009.230
+    404 http://www-03.ibm.com/systems/x/solutions/os/linux/asianux.html
+    404 http://news.cnet.com/8301-13505_3-10148796-16.html
+posts/2009-08-02-smr00025-storage-symposium-2009-day3-xiv-sessions.html -- problems found: 1
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=july_2009_announcements_for_ds8000
+posts/2009-08-03-smr00025-storage-symposium-2009-day4-svc-questions-answered.html -- problems found: 1
+    404 http://www-03.ibm.com/support/techdocs/atsmastr.nsf/WebIndex/TD104437
+posts/2009-08-13-san00003-techselect-university-2009.html -- problems found: 1
+    404 http://www.rawhide.com/home-index.html
+posts/2009-09-14-dpr00006-tsm-economices-of-scale.html -- problems found: 1
+    404 http://www.enterprisestrategygroup.com/ESGPublications/ReportDetail.asp?ReportID=1207
+posts/2009-10-02-fla00015-br-allen-contrasts-ibm-and-emc-strategy.html -- problems found: 1
+    404 http://www.ibm.com/common/ssi/fcgi-bin/ssialias?infotype=SA&subtype=WH&appname=STGE_DI_DI_USEN&htmlfid=DIL03008USEN&attachment=DIL03008USEN.PDF
+posts/2009-10-06-fob00005-ibm-unveils-information-archive-system.html -- problems found: 1
+    404 http://www-03.ibm.com/systems/storage/disk/archive/
+posts/2009-10-07-fob00005-tuning-out-station-kefm.html -- problems found: 3
+    404 http://www.ftc.gov/os/2009/10/091005endorsementguidesfnnotice.pdf
+    404 http://www.enterprisestorageforum.com/continuity/features/article.php/3576831
+    404 http://www.enterprisestorageforum.com/continuity/features/article.php/3582216
+posts/2009-10-15-fob00005-new-ibm-blogger-rich-swain.html -- problems found: 1
+    500 http://ibmnseries.blog.com/
+posts/2009-10-20-fla00015-new-ds8700-and-other-disk-announcements.html -- problems found: 2
+    408 http://thestorageanarchist.typepad.com/weblog/2009/10/2025-rip-ds8300.html
+    408 http://thestorageanarchist.typepad.com/weblog/2009/10/2026-whats-in-a-name-ds8700.html
+posts/2009-10-21-smr00025-welcome-keith-stevenson-as-new-ibm-storage-blogger.html -- problems found: 1
+    408 http://ow.ly/vyhY
+posts/2009-10-27-dpr00006-the-tco-of-tsm-for-backup.html -- problems found: 1
+    408 https://www.ibm.com/developerworks/mydeveloperworks/blogs/InsideSystemStorage/entry/tsm_economices_of_scale
+posts/2009-11-17-smr00025-events-in-december-2009.html -- problems found: 2
+    404 http://www.gartner.com/it/page.jsp?id=851712
+    404 https://www-03.ibm.com/systems/services/briefingcenter/tbc/index.html
+posts/2009-12-07-smr00025-day3-mountains-hiding-in-the-mist.html -- problems found: 3
+    408 http://open.eucalyptus.com/
+    404 http://www.vmware.com/appliances/services/vcloud-express.html
+    403 http://www.microsoft.com/systemcenter/sconline/default.mspx
+posts/2009-12-16-fla00015-day5-solution-showcase-data-center-2009.html -- problems found: 11
+    404 http://www.flickr.com/photos/26449036@N06/4191232834/
+    404 http://www.flickr.com/photos/26449036@N06/4190471523/
+    408 http://www.flickr.com/photos/26449036@N06/4191233542/
+    408 http://www.flickr.com/photos/26449036@N06/4190473021/
+    408 http://www.flickr.com/photos/26449036@N06/4191236406/
+    408 http://www.flickr.com/photos/26449036@N06/4190473415/
+    404 http://www.flickr.com/photos/26449036@N06/4191233830/
+    404 http://www.flickr.com/photos/26449036@N06/4191234332/
+    404 http://www.flickr.com/photos/26449036@N06/4190473843/
+    404 http://www.flickr.com/photos/26449036@N06/4190474169/
+    404 http://www.flickr.com/photos/26449036@N06/4190474427/
+posts/2009-12-17-san00003-day5-hospitality-suites-data-center-conference-2009.html -- problems found: 12
+    404 http://www.flickr.com/photos/26449036@N06/4191236652/
+    408 http://www.flickr.com/photos/26449036@N06/4191236970/
+    404 http://www.flickr.com/photos/26449036@N06/4190475661/
+    408 http://www.flickr.com/photos/26449036@N06/4191237678/
+    404 http://www.flickr.com/photos/26449036@N06/4191237998/
+    404 http://www.flickr.com/photos/26449036@N06/4190476709/
+    404 http://www.flickr.com/photos/26449036@N06/4191239024/
+    408 http://www.flickr.com/photos/26449036@N06/4191239328/
+    404 http://www.flickr.com/photos/26449036@N06/4190478007/
+    404 http://www.flickr.com/photos/26449036@N06/4192927873/
+    408 http://www.flickr.com/photos/26449036@N06/4191238652/
+    404 http://www.flickr.com/photos/26449036@N06/4190478729/
+posts/2009-12-18-smr00024-techtarget-features-inside-system-storage-blog.html -- problems found: 1
+    404 http://itknowledgeexchange.techtarget.com/itke-community-blog/featured-it-blogger-of-the-week-tony-pearson-of-inside-system-storage/
+posts/2010-01-04-smr00024-happy-new-year-2010.html -- problems found: 1
+    504 http://www.fantasticmrfoxmovie.com/
+posts/2010-01-05-smr00024-ibm-launches-virtual-briefing-center.html -- problems found: 4
+    408 http://ibm-vbc.centers.ihost.com/
+    404 http://news.cnet.com/8301-10784_3-6127448-7.html
+    408 http://domino.watson.ibm.com/comm/pr.nsf/pages/news.20070416_virtualworlds.html
+    404 http://www.ibm.com/3dworlds/businesscenter/us/en/
+posts/2010-01-07-fla00015-new-years-resolutions.html -- problems found: 13
+    400 http://en.wikipedia.org/wiki/New_Year%
+
+27s_resolution
+    404 http://37signals.com/svn/posts/2025-jim-collins-
+
+and-the-stop-doing-list
+    403 http://www.readersdigest.ca/specialfeatures/resolutions_2010/cms/xcms/6-steps
+
+-to-your-best-new-year-s-resolution_1606_a.html
+    404 http://www.usa.gov/Citizen/Topics/New_Years_Resolutions.shtml
+    403 http://www.readersdigest.ca/specialfeatures/resolutions_2010/cms/xcms/12-
+
+resolutions-for-mind-and-spirit_1607_a.html
+    520 http://collegecandy.com/2009/01/01/new-years-resolutions-you-should-make-but-
+
+probably-wont/
+    408 http://blog.pappastax.com/index.php/2008/12/31/my-new-years-resolutions-based-on-
+
+lessons-learned-in-2008/
+    404 http://www.43folders.com/2004/09/03/introducing-
+
+the-hipster-pda
+    400 http://happylists.wordpress.com/2009/01/09/10-reasons-not-
+
+to-make-new-years-resolutions/
+    403 http://www.readersdigest.ca/specialfeatures/resolutions_2010/cms/xcms/why-
+
+willpower-s-over-rated_532_a.html
+    404 http://online.wsj.com/article/SB10001424052748703478704574612052322122442.html?
+
+mod=article-outset-box
+    408 http://www.happiness-
+
+project.com/happiness_project/2008/12/true-rules-the.html
+    403 http://www.readersdigest.ca/specialfeatures/resolutions_2010/cms/xcms/keeping
+
+-your-new-year-s-resolutions_533_a.html
+posts/2010-01-14-fla00014-storage-software-with-system-x-servers.html -- problems found: 1
+    403 http://www.theregister.co.uk/2010/01/13/hp_microsoft_frontline_stack/
+posts/2010-01-22-tap00003-breakthrough-in-magentic-data-density-recording.html -- problems found: 1
+    404 http://www.youtube.com/v/z2w-pzMjpx0
+posts/2010-02-05-fla00014-am-i-dreaming-emc-citing-standard-benchmark-results.html -- problems found: 2
+    404 http://blogs.netapp.com/eislers_nfs_blog/2009/02/chuckle-for-tod.html
+    404 http://www.cioupdate.com/features/article.php/3863026/IBM-Spells-Out-Information-Governance-Strategy.htm
+posts/2010-02-08-smr00024-ibm-launches-power7-processor-and-server-line.html -- problems found: 2
+    406 http://www.platformonomics.com/Sundown.aspx
+    404 http://www-03.ibm.com/systems/power/news/announcement/20100209_annc.html
+posts/2010-02-09-san00003-ibm-storage-launch-for-february-2010.html -- problems found: 1
+    404 http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?
+
+subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS110-030
+posts/2010-02-11-fob00005-ibm-sonas-guest-post-from-john-sing.html -- problems found: 3
+    404 http://www-03.ibm.com/systems/storage/network/sonas/index.html
+    999 http://www.linkedin.com/in/johnsing
+    404 http://www-03.ibm.com/systems/software/gpfs/index.html
+posts/2010-02-12-fla00014-new-disk-options-for-dcs9900-ds3000-and-n-series.html -- problems found: 1
+    404 http://www.flickr.com/photos/26449036@N06/4351831535/
+posts/2010-02-16-dpr00006-tivoli-storage-manager-v62.html -- problems found: 3
+    404 http://www.flickr.com/photos/26449036@N06/4362444351/
+    408 https://www-950.ibm.com/communities/service/html/communityview?communityUuid=dd8bf011-85af-48da-a4dd-21047a08c33e
+    408 http://www.flickr.com/photos/26449036@N06/4362444389/
+posts/2010-02-23-fla00014-eliminating-technology-trade-offs.html -- problems found: 1
+    408 http://chucksblog.emc.com/chucks_blog/2010/02/cloud-storage-evolves.html
+posts/2010-03-02-fla00014-march-2010-enhancements-to-ibm-modular-disk-systems.html -- problems found: 2
+    500 http://ibmnseries.blog.com/2010/02/23/ibm-releases-n3400/
+    408 http://thestorageanarchist.typepad.com/weblog/2010/02/2042-bring-out-your-dead.html
+posts/2010-03-03-fla00014-the-different-meanings-of-the-word-protect.html -- problems found: 1
+    408 http://thestorageanarchist.typepad.com/weblog/2010/03/2044-ibm-dumbs-down-storage-marketing-again.html
+posts/2010-03-15-san00003-ibm-achieves-highest-growth-among-top-three-storage-vendors.html -- problems found: 1
+    408 http://symphony.lotus.com/software/lotus/symphony/home.nsf/home
+posts/2010-03-22-fob00005-cloud-computing-for-accountants.html -- problems found: 2
+    404 http://www.aicpa.org/Conferences+and+Publications+and+CPE+and+the+AICPA+Library/CPE/
+    404 https://www-03.ibm.com/systems/storage/solutions/gmas/index.html
+posts/2010-03-29-smr00024-three-things-to-do-on-the-ibm-cloud.html -- problems found: 1
+    408 https://www-180.ibm.com/cloud/enterprise/beta/dashboard
+posts/2010-04-05-fla00014-double-drive-failure-debunked-xiv-two-years-later.html -- problems found: 6
+    408 http://www.xivstorage.co.uk/index.php/Dispel-the-rumour.html
+    404 http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/en/us/papers/disk_failures.pdf
+    408 https://www.ibm.com/developerworks/mydeveloperworks/blogs/InsideSystemStorage/entry/fleet_cars_and_skin_cells?lang=en_us
+    408 http://ktstevenson.com/2010/01/21/raid-in-the-21st-century/
+    408 http://www.hitachigst.com/portal/site/en/menuitem.1f1ae01746121cb0483bad24eac4f0a0/
+    408 http://www.xivstorage.com/materials/white_papers/ibm_xiv_reliability_paper.pdf
+posts/2010-04-07-fla00014-ibm-events-in-april-2010.html -- problems found: 4
+    408 http://www.snwusa.com/ehome/index.php?eventid=8242&
+    500 http://ibmnseries.blog.com/
+    404 http://bit.ly/9w3Ojs
+    408 https://www-950.ibm.com/events/wwe/nedc/disummapril10.nsf/webcontent/registrationdetails?opendocument
+posts/2010-04-08-fla00014-imitation-is-the-sincerest-form-of-flattery.html -- problems found: 6
+    408 http://chucksblog.emc.com/chucks_blog/2010/04/the-10-big-ideas-that-are-shaping-it-infrastructure-today.html
+    408 https://www.ibm.com/developerworks/mydeveloperworks/blogs/InsideSystemStorage/entry/cloud_computing_for_accountan5?lang=en_us
+    408 http://www.flickr.com/photos/26449036@N06/4503212219/
+    404 http://www.flickr.com/photos/26449036@N06/4503842874/
+    404 http://www.flickr.com/photos/26449036@N06/4503212241/
+    408 http://www.flickr.com/photos/26449036@N06/4503842796/
+posts/2010-04-13-fla00014-ibm-announces-ds8700-easy-tier-with-sub-lun-automatic-migration.html -- problems found: 2
+    404 http://ow.ly/1jqig
+    404 http://www-01.ibm.com/support/docview.wss?uid=ssg1S7001073&rs=555
+posts/2010-04-14-tap00003-double-the-storage-capacity-double-the-fun.html -- problems found: 4
+    404 http://ow.ly/1u2NA
+    404 http://ow.ly/1u2NA
+    404 http://www-03.ibm.com/systems/storage/news/center/xiv/index.html
+    404 http://ow.ly/1jr31
+posts/2010-04-20-fob00004-storage-monkey-business-with-ibm-at-snw.html -- problems found: 2
+    500 http://ibmnseries.blog.com/
+    408 http://www.storagemonkeys.com/index.php?option=com_community&view=videos&task=video&userid=556&videoid=24&Itemid=134
+posts/2010-04-22-tap00003-happy-earth-day.html -- problems found: 5
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=green_water_for_green_energy
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=power_to_the_costa_rican
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=happy_earth_day_2009
+    408 http://www.ibm.com/developerworks/blogs/page/InsideSystemStorage?entry=green_incentives_versus_human_behaviour
+    404 http://www.nabshow.com/2010/about/default.asp
+posts/2010-04-24-fla00014-local-ibm-tucson-team-recognized-in-arizona-daily-star.html -- problems found: 1
+    404 http://www.flickr.com/photos/26449036@N06/4548976940/
+posts/2010-04-26-fla00014-on-stacks-appliances-and-clouds.html -- problems found: 6
+    403 http://www.ihop.com/
+    404 http://www.infoworld.com/d/hardware/how-cisco-ucs-reinvents-datacenter-409
+    404 http://newyork.corante.com/archives/2005/04/18/beware_the_barney_press_release.php
+    408 http://storagemojo.com/2010/04/21/a-deep-dive-into-ciscos-ucs/
+    406 http://www.sutor.com/c/2010/04/appliances-and-linux/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BobSutor+%28Bob+Sutor%29&utm_content=Bloglines
+    408 http://thestorageanarchist.typepad.com/weblog/2010/04/2048-a-walk-though-the-clouds.html
+posts/2010-04-27-fla00014-ibm-dynamic-infrastructure-executive-summit.html -- problems found: 1
+    404 http://www.flickr.com/photos/26449036@N06/4557960884/
